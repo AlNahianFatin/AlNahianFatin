@@ -17,23 +17,53 @@
 
 ## 🛠️ Technology Arsenal
 
+
 ### 💻 Programming Languages
-<!-- TODO: Add/remove languages based on your actual skills -->
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+
+![C#](https://img.shields.io/badge/C%23-purple?style=for-the-badge&logo=c-sharp&logoColor=white)
+
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 
 
 ### 🚀 Frameworks & Libraries
-<!-- TODO: Add your actual frameworks -->
 
-### ☁️ Cloud & DevOps
+![Nest.js](https://img.shields.io/badge/nest.js-FFF?style=for-the-badge&logo=nestjs&logoColor=red)
+
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white)
+
+![NextJS](https://img.shields.io/badge/NextJS-000?style=for-the-badge&logo=next.js&logoColor=white)
+
+![ASP.NET Core](https://img.shields.io/badge/ASP.NET%20Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+
+![Socket.IO](https://img.shields.io/badge/Socket.IO-010101?style=for-the-badge&logo=socket.io&logoColor=white)
+
+<!-- ### ☁️ Cloud & DevOps -->
 <!-- TODO: Add your cloud/devops tools -->
 
 
 ### 🗄️ Databases
-<!-- TODO: Add your databases -->
+
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+
+![Microsoft SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+
+![SSMS](https://img.shields.io/badge/SSMS-0078D4?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 
 
 ## 📊 GitHub Analytics Dashboard
@@ -59,9 +89,8 @@
 ### 📅 Contribution Calendar
 <img src="https://ghchart.rshah.org/409ba5/AlNahianFatin" alt="Contribution Calendar" width="100%"/>
 
-### ⚡ Recent Activity
+## ⚡ Recent Activity
 <!--START_SECTION:activity-->
-<!-- TODO: Set up GitHub Actions to auto-update this section -->
 <!--END_SECTION:activity-->
 
 
@@ -69,9 +98,17 @@
 
 <div align="center">
 
-<!-- TODO: Replace with actual project -->
-<!-- TODO: Replace with actual project -->
-<!-- TODO: Replace with actual project -->
+### 🚀 Gamers United
+A full-stack gaming community platform
+
+[![Repo](https://img.shields.io/badge/View%20Project-GitHub-black?style=for-the-badge&logo=github)](https://github.com/AlNahianFatin/Gamers_United)
+
+---
+
+<!-- ### 🎮 Your Next Project
+Short description here
+
+[![Repo](https://img.shields.io/badge/View%20Project-GitHub-black?style=for-the-badge&logo=github)](#) -->
 
 </div>
 
@@ -80,21 +117,24 @@
 
 <div align="center">
 
-<!-- TODO: Add your LinkedIn -->
-<!-- TODO: Add your Twitter -->
-<!-- TODO: Add your portfolio -->
-<!-- TODO: Add your email -->
-<!-- TODO: Add your blog -->
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/al-nahian-fatin)
 
-### 📱 Social Presence
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:fatinnahian@gmail.com)
 
-[![GitHub followers](https://img.shields.io/github/followers/AlNahianFatin?style=social)](https://github.com/AlNahianFatin)
-<!-- TODO: Add your Twitter handle -->
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://sites.google.com/view/al-nahian-fatin/home)
 
 </div>
 
+<!-- <div>
+### 📱 Social Presence
 
-## ☕ Support My Work
+[![GitHub followers](https://img.shields.io/github/followers/AlNahianFatin?style=social)](https://github.com/AlNahianFatin)
+<!-- TODO: Add your Twitter handle 
+
+</div> -->
+
+
+<!-- ## ☕ Support My Work
 
 If you found my projects helpful or learned something from my code, consider supporting my work:
 
@@ -104,7 +144,7 @@ If you found my projects helpful or learned something from my code, consider sup
 <!-- TODO: Replace YOUR_USERNAME with your Ko-fi username -->
 <!-- TODO: Replace YOUR_USERNAME with your GitHub username -->
 
-</div>
+<!-- </div> -->
 
 <div align="center">
   <sub>💡 <i>Every contribution, no matter how small, helps me maintain and improve my open source projects!</i></sub>
