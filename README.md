@@ -35,33 +35,31 @@
 
 ### 🚀 Frameworks & Libraries
 
+<div>
+
 ![Nest.js](https://img.shields.io/badge/nest.js-FFF?style=for-the-badge&logo=nestjs&logoColor=red)
-
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white)
-
 ![NextJS](https://img.shields.io/badge/NextJS-000?style=for-the-badge&logo=next.js&logoColor=white)
-
 ![ASP.NET Core](https://img.shields.io/badge/ASP.NET%20Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-
 ![Socket.IO](https://img.shields.io/badge/Socket.IO-010101?style=for-the-badge&logo=socket.io&logoColor=white)
+
+</div>
 
 <!-- ### ☁️ Cloud & DevOps -->
 <!-- TODO: Add your cloud/devops tools -->
 
 
 ### 🗄️ Databases
-
+<div>
+  
 ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
-
 ![Microsoft SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
-
 ![SSMS](https://img.shields.io/badge/SSMS-0078D4?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
-
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+
+</div>
 
 
 ## 📊 GitHub Analytics Dashboard
@@ -87,7 +85,7 @@
 ### 📅 Contribution Calendar
 <img src="https://ghchart.rshah.org/409ba5/AlNahianFatin" alt="Contribution Calendar" width="100%"/>
 
-## ⚡ Recent Activity
+<!-- ## ⚡ Recent Activity -->
 <!--START_SECTION:activity-->
 <!--END_SECTION:activity-->
 
