@@ -123,7 +123,7 @@ Short description here
 
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:fatinnahian@gmail.com)
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://sites.google.com/view/al-nahian-fatin/home)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://al-nahian-fatin-portfolio.vercel.app)
 
 </div>
 
