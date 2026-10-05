@@ -12,13 +12,15 @@
 * 🌱 Learning: **Advanced C# and JavaScript frameworks**
 * 👯 Looking to collaborate on: **Open Source Projects involving software and web development**
 * 💬 Ask me about: **C#, Software Development, HTML, CSS, JavaScript, PHP, Web Development, and Project Ideas**
-* ⚡ Fun fact: **I enjoy exploring new technologies and love problem-solving.**
+* ⚡ Fun fact: **I enjoy exploring new technologies and love problem-solving**
+
+---
 
 ## 🛠️ Technology Arsenal
 
 ### 💻 Programming Languages
 
-<div>
+<div align="center">
 
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge\&logo=c\&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge\&logo=c%2b%2b\&logoColor=white)
@@ -29,14 +31,14 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge\&logo=typescript\&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge\&logo=php\&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge\&logo=csharp\&logoColor=white)
+![C%23](https://img.shields.io/badge/C%23-239120?style=for-the-badge\&logo=csharp\&logoColor=white)
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge\&logo=dotnet\&logoColor=white)
 
 </div>
 
 ### 🚀 Frameworks & Libraries
 
-<div>
+<div align="center">
 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge\&logo=nodedotjs\&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge\&logo=express\&logoColor=white)
@@ -48,9 +50,9 @@
 
 </div>
 
-### ☁️ Cloud & DevOps
+### ☁️ Tools & Development
 
-<div>
+<div align="center">
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
@@ -63,7 +65,7 @@
 
 ### 🗄️ Databases
 
-<div>
+<div align="center">
 
 ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge\&logo=oracle\&logoColor=white)
 ![Microsoft SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge\&logo=microsoftsqlserver\&logoColor=white)
@@ -76,41 +78,51 @@
 
 ---
 
-## 📊 GitHub Analytics
+# 📊 GitHub Statistics
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=AlNahianFatin&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&show=reviews,prs,issues,commits" alt="GitHub Statistics"/>
+<img src="https://github-readme-stats.vercel.app/api?username=AlNahianFatin&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&show=commits,prs,issues,reviews" alt="GitHub Statistics"/>
 
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlNahianFatin&layout=compact&langs_count=8&theme=tokyonight" alt="Top Languages"/>
+<br/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlNahianFatin&layout=compact&langs_count=8&theme=tokyonight" alt="Top Languages"/>
 
 </div>
 
-### 📈 Contribution Activity
+---
+
+# 🏆 GitHub Achievements
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=AlNahianFatin&theme=tokyo-night&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true" alt="Contribution Activity" width="100%"/>
+<img src="https://github-profile-trophy.vercel.app/?username=AlNahianFatin&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=2&column=4" alt="GitHub Achievements"/>
 
 </div>
 
-### 🔥 Contribution Streak
+---
+
+# 📈 Contribution Activity
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=AlNahianFatin&theme=tokyonight&hide_border=true" alt="GitHub Contribution Streak"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=AlNahianFatin&theme=tokyo-night&hide_border=true&area=true" alt="GitHub Contribution Activity" width="100%"/>
 
 </div>
 
-### 🏆 GitHub Achievements
+---
+
+# 🔥 Contribution Streak
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=AlNahianFatin&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&row=2&column=4" alt="GitHub Achievements"/>
+<img src="https://streak-stats.demolab.com?user=AlNahianFatin&theme=tokyonight&hide_border=true" alt="GitHub Contribution Streak"/>
 
 </div>
 
-### 📅 Contribution Calendar
+---
+
+# 📅 Contribution Calendar
 
 <div align="center">
 
@@ -120,21 +132,23 @@
 
 ---
 
-## 🏗️ Featured Projects
+# 🏗️ Featured Projects
 
 <div align="center">
 
-### 🚀 Gamers United
+## 🚀 Gamers United
 
-A full-stack gaming community platform
+A full-stack gaming community platform.
 
-[![View Project](https://img.shields.io/badge/View%20Project-GitHub-black?style=for-the-badge\&logo=github)](https://github.com/AlNahianFatin/Gamers_United)
+<a href="https://github.com/AlNahianFatin/Gamers_United">
+  <img src="https://img.shields.io/badge/View%20Project-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="View Gamers United on GitHub"/>
+</a>
 
 </div>
 
 ---
 
-## 🌐 Let's Connect & Collaborate
+# 🌐 Let's Connect & Collaborate
 
 <div align="center">
 
@@ -152,7 +166,9 @@ A full-stack gaming community platform
 
 </div>
 
-### 📱 Social Presence
+---
+
+# 📱 Social Presence
 
 <div align="center">
 
@@ -160,7 +176,7 @@ A full-stack gaming community platform
   <img src="https://img.shields.io/github/followers/AlNahianFatin?style=for-the-badge&logo=github&label=GitHub%20Followers" alt="GitHub Followers"/>
 </a>
 
-<!-- Replace with your actual Facebook profile URL -->
+<!-- Replace the URL below with your actual Facebook profile -->
 
 <a href="https://www.facebook.com/">
   <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
@@ -173,6 +189,8 @@ A full-stack gaming community platform
 <div align="center">
 
 <img src="https://komarev.com/ghpvc/?username=AlNahianFatin&color=blueviolet&style=for-the-badge&label=Profile+Views" alt="Profile Views"/>
+
+<br/>
 
 ### 🚀 "Code is poetry, and every commit tells a story"
 
