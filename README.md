@@ -1,22 +1,22 @@
-# 👨‍💻 FATIN, AL NAHIAN | Software Engineer
-
+# 👨‍💻 FATIN, AL NAHIAN | Developer
 ### 🚀 Building the future, one commit at a time
 
 <div align="center">
-  <img src="assets/software-engineer.svg" alt="Animated software engineer at work" width="100%"/>
+  <img height="150" src="https://static.vecteezy.com/system/resources/previews/059/957/891/non_2x/a-flat-style-illustration-of-a-computer-programmer-vector.jpg"/>
 </div>
+
 
 ## 🎯 Current Focus
 
-* 🔭 Working on: **Currently exploring new project ideas**
-* 🌱 Learning: **Advanced C# and JavaScript frameworks**
-* 👯 Looking to collaborate on: **Open Source Projects involving software and web development**
-* 💬 Ask me about: **C#, Software Development, HTML, CSS, JavaScript, PHP, Web Development, and Project Ideas**
-* ⚡ Fun fact: **I enjoy exploring new technologies and love problem-solving**
+- 🔭 Working on: **Currently exploring new project ideas** <!-- TODO: Add your current main project -->
+- 🌱 Learning: **Advanced C# and JavaScript frameworks ** <!-- TODO: Add what you're currently learning -->
+- 👯 Looking to collaborate on: **Open Source Projects involving software and web development**
+- 💬 Ask me about: **C#, Software Development, HTML, CSS, JavaScript, php, Web Development, and Project Ideas** <!-- TODO: Add your areas of expertise -->
+- ⚡ Fun fact:  **I enjoy exploring new technologies and love problem-solving.** <!-- TODO: Add a fun fact -->
 
----
 
 ## 🛠️ Technology Arsenal
+
 
 ### 💻 Programming Languages
 
@@ -29,12 +29,13 @@
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 
 </div>
+
 
 ### 🚀 Frameworks & Libraries
 
@@ -42,158 +43,131 @@
 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![Nest.js](https://img.shields.io/badge/nest.js-FFF?style=for-the-badge&logo=nestjs&logoColor=red)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white)
+![NextJS](https://img.shields.io/badge/NextJS-000?style=for-the-badge&logo=next.js&logoColor=white)
 ![ASP.NET Core](https://img.shields.io/badge/ASP.NET%20Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![Socket.IO](https://img.shields.io/badge/Socket.IO-010101?style=for-the-badge&logo=socket.io&logoColor=white)
 
 </div>
 
-### ☁️ Tools & Development
+### ☁️ Cloud & DevOps
+![Postman](https://img.shields.io/badge/Socket.IO-010101?style=for-the-badge&logo=socket.io&logoColor=white)
+![VSCode](https://img.shields.io/badge/Socket.IO-010101?style=for-the-badge&logo=socket.io&logoColor=white)
+![Visual Studio](https://img.shields.io/badge/Socket.IO-010101?style=for-the-badge&logo=socket.io&logoColor=white)
 
-<div>
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white)
-
-</div>
 
 ### 🗄️ Databases
-
 <div>
-
+  
 ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
-![Microsoft SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+![Microsoft SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
 ![SSMS](https://img.shields.io/badge/SSMS-0078D4?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 
 </div>
 
----
 
-# 📊 GitHub Statistics
+## 📊 GitHub Analytics Dashboard
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AlNahianFatin&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlNahianFatin&layout=compact&langs_count=8&theme=tokyonight"/>
+</div>
+
+### 🏆 GitHub Achievements
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=AlNahianFatin&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4&row=2&column=3" alt="GitHub Achievements"/>
+</p>
+
+### 📈 Contribution Activity
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=AlNahianFatin&theme=tokyo-night&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true" alt="GitHub Contribution Activity"/>
+
+### 🔥 Streak Statistics
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AlNahianFatin&theme=tokyonight&hide_border=true" alt="GitHub Streak Statistics"/>
+</p>
+
+### 📅 Contribution Calendar
+<img src="https://ghchart.rshah.org/409ba5/AlNahianFatin" alt="Contribution Calendar" width="100%"/>
+
+<!-- ## ⚡ Recent Activity -->
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
+
+
+## 🏗️ Featured Projects
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=AlNahianFatin&show_icons=true&theme=tokyonight&include_all_commits=true&show=reviews" alt="GitHub Statistics"/>
+### 🚀 Gamers United
+A full-stack gaming community platform
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlNahianFatin&layout=compact&langs_count=8&theme=tokyonight" alt="Top Languages"/>
-
-</div>
-
----
-
-# 🏆 GitHub Achievements
-
-<div align="center">
-
-<a href="https://github.com/ryo-ma/github-profile-trophy" target="_blank" rel="noopener noreferrer">
-  <img src="https://github-profile-trophy.vercel.app/?username=AlNahianFatin&theme=onedark&column=4&row=2&margin-w=15&margin-h=15" alt="GitHub Trophies"/>
-</a>
-
-</div>
+[![Repo](https://img.shields.io/badge/View%20Project-GitHub-black?style=for-the-badge&logo=github)](https://github.com/AlNahianFatin/Gamers_United)
 
 ---
 
-# 📈 Contribution Activity
+<!-- ### 🎮 Your Next Project
+Short description here
 
-<div align="center">
-
-<a href="https://github.com/AlNahianFatin" target="_blank" rel="noopener noreferrer">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AlNahianFatin&theme=github-compact&hide_border=true" alt="GitHub Contribution Activity" width="100%"/>
-</a>
+[![Repo](https://img.shields.io/badge/View%20Project-GitHub-black?style=for-the-badge&logo=github)](#) -->
 
 </div>
 
----
 
-# 🔥 Contribution Streak
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com/?user=AlNahianFatin&theme=tokyonight&hide_border=true" alt="GitHub Contribution Streak"/>
-
-</div>
-
----
-
-# 📅 Contribution Calendar
-
-<div align="center">
-
-<img src="https://ghchart.rshah.org/409ba5/AlNahianFatin" alt="GitHub Contribution Calendar" width="100%"/>
-
-</div>
-
----
-
-# 🏗️ Featured Projects
-
-<div align="center">
-
-## 🚀 Gamers United
-
-A full-stack gaming community platform.
-
-<a href="https://github.com/AlNahianFatin/Gamers_United" target="_blank" rel="noopener noreferrer">
-  <img src="https://img.shields.io/badge/View%20Project-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="View Gamers United on GitHub"/>
-</a>
-
-</div>
-
----
-
-# 🌐 Let's Connect & Collaborate
+## 🌐 Let's Connect & Collaborate
 
 <div align="center">
 
 <a href="https://www.linkedin.com/in/al-nahian-fatin/" target="_blank" rel="noopener noreferrer">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
 </a>
 
-<a href="mailto:fatinnahian@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+<a href="mailto:fatinnahian@gmail.com" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
 </a>
 
 <a href="https://al-nahian-fatin-portfolio.vercel.app" target="_blank" rel="noopener noreferrer">
-  <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
+  <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio">
 </a>
 
+</div>
+
+<div>
+### 📱 Social Presence
+
+[![GitHub followers](https://img.shields.io/github/followers/AlNahianFatin?style=social)](https://github.com/AlNahianFatin)
+
+[![Facebook](https://img.shields.io/github/followers/AlNahianFatin?style=social)](https://github.com/AlNahianFatin)
+
+</div>
+
+
+<!-- ## ☕ Support My Work
+
+If you found my projects helpful or learned something from my code, consider supporting my work:
+
+<div align="center">
+
+<!-- TODO: Replace YOUR_USERNAME with your Buy Me A Coffee username -->
+<!-- TODO: Replace YOUR_USERNAME with your Ko-fi username -->
+<!-- TODO: Replace YOUR_USERNAME with your GitHub username -->
+
+<!-- </div> -->
+
+<div align="center">
+  <sub>💡 <i>Every contribution, no matter how small, helps me maintain and improve my open source projects!</i></sub>
 </div>
 
 ---
 
-# 📱 Social Presence
-
 <div align="center">
+  <img src="https://komarev.com/ghpvc/?username=AlNahianFatin&color=blueviolet&style=for-the-badge&label=Profile+Views"/>
 
-<a href="https://github.com/AlNahianFatin" target="_blank" rel="noopener noreferrer">
-  <img src="https://img.shields.io/github/followers/AlNahianFatin?style=for-the-badge&logo=github&label=GitHub%20Followers" alt="GitHub Followers"/>
-</a>
+  ### 🚀 "Code is poetry, and every commit tells a story"
 
-<a href="https://www.facebook.com/share/1DN4F6LEbq/" target="_blank" rel="noopener noreferrer">
-  <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
-</a>
-
+  <sub>⭐ Feel free to star any repositories you find interesting!</sub>
 </div>
 
----
-
-<div align="center">
-
-<img src="https://komarev.com/ghpvc/?username=AlNahianFatin&color=blueviolet&style=for-the-badge&label=Profile+Views" alt="Profile Views"/>
-
-<br/>
-
-### 🚀 "Code is poetry, and every commit tells a story"
-
-<sub>⭐ Feel free to star any repositories you find interesting!</sub>
-
-</div>
