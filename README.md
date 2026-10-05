@@ -1,9 +1,9 @@
-# 👨‍💻 FATIN, AL NAHIAN | Developer
+# 👨‍💻 FATIN, AL NAHIAN | Software Engineer
 
 ### 🚀 Building the future, one commit at a time
 
 <div align="center">
-  <img height="150" src="https://static.vecteezy.com/system/resources/previews/059/957/891/non_2x/a-flat-style-illustration-of-a-computer-programmer-vector.jpg" alt="Programmer Illustration"/>
+  <img src="assets/software-engineer.svg" alt="Animated software engineer at work" width="100%"/>
 </div>
 
 ## 🎯 Current Focus
@@ -76,6 +76,17 @@
 
 </div>
 
+<div>
+
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge)
+![Microsoft SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge)
+![SSMS](https://img.shields.io/badge/SSMS-0078D4?style=for-the-badge)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+
+</div>
+
 ---
 
 # 📊 GitHub Statistics
@@ -118,7 +129,7 @@
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com/?user=AlNahianFatin&theme=tokyonight&hide_border=true" alt="Streak Statistics"/>
+<img src="https://streak-stats.demolab.com/?user=AlNahianFatin&theme=tokyonight&hide_border=true" alt="GitHub Contribution Streak"/>
 
 </div>
 
