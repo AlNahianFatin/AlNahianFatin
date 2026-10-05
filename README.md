@@ -9,9 +9,9 @@
 ## 🎯 Current Focus
 
 * 🔭 Working on: **Currently exploring new project ideas**
-* 🌱 Learning: **Advanced C# and JavaScript frameworks**
+* 🌱 Learning: **Advanced Typescript frameworks**
 * 👯 Looking to collaborate on: **Open Source Projects involving software and web development**
-* 💬 Ask me about: **C#, Software Development, HTML, CSS, JavaScript, PHP, Web Development, and Project Ideas**
+* 💬 Ask me about: **C#, Software Development, HTML, CSS, JavaScript, Typescript, Web Development, and Project Ideas**
 * ⚡ Fun fact: **I enjoy exploring new technologies and love problem-solving**
 
 ---
@@ -47,6 +47,10 @@
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
 ![ASP.NET Core](https://img.shields.io/badge/ASP.NET%20Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![Socket.IO](https://img.shields.io/badge/Socket.IO-010101?style=for-the-badge&logo=socket.io&logoColor=white)
+![TypeORM](https://img.shields.io/badge/TypeORM-FE0803?style=for-the-badge)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 
 </div>
 
