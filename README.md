@@ -94,7 +94,9 @@
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=AlNahianFatin&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=2&column=4" alt="GitHub Trophies"/>
+<a href="https://github.com/ryo-ma/github-profile-trophy" target="_blank" rel="noopener noreferrer">
+  <img src="https://github-profile-trophy.vercel.app/?username=AlNahianFatin&theme=onedark&column=4&row=2&margin-w=15&margin-h=15" alt="GitHub Trophies"/>
+</a>
 
 </div>
 
@@ -104,7 +106,9 @@
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=AlNahianFatin&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=38bdae&area_color=bf91f3&area=true&hide_border=true&title_color=38bdae" alt="GitHub Contribution Activity" width="100%"/>
+<a href="https://github.com/AlNahianFatin" target="_blank" rel="noopener noreferrer">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AlNahianFatin&theme=github-compact&hide_border=true" alt="GitHub Contribution Activity" width="100%"/>
+</a>
 
 </div>
 
