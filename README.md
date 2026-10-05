@@ -76,17 +76,6 @@
 
 </div>
 
-<div>
-
-![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge)
-![Microsoft SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge)
-![SSMS](https://img.shields.io/badge/SSMS-0078D4?style=for-the-badge)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-
-</div>
-
 ---
 
 # 📊 GitHub Statistics
@@ -189,8 +178,7 @@ A full-stack gaming community platform.
   <img src="https://img.shields.io/github/followers/AlNahianFatin?style=for-the-badge&logo=github&label=GitHub%20Followers" alt="GitHub Followers"/>
 </a>
 
-<!-- Replace the URL below with your actual Facebook profile -->
-<a href="https://www.facebook.com/" target="_blank" rel="noopener noreferrer">
+<a href="https://www.facebook.com/share/1DN4F6LEbq/" target="_blank" rel="noopener noreferrer">
   <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
 </a>
 
