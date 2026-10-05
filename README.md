@@ -56,7 +56,7 @@
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge\&logo=postman\&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge\&logo=vercel\&logoColor=white)
-![Visual Studio Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge\&logo=visualstudiocode\&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge\&logo=visualstudiocode\&logoColor=white)
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge\&logo=visualstudio\&logoColor=white)
 
 </div>
@@ -74,32 +74,51 @@
 
 </div>
 
-## 📊 GitHub Analytics Dashboard
+---
+
+## 📊 GitHub Analytics
 
 <div align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=AlNahianFatin&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="GitHub Statistics"/>
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlNahianFatin&layout=compact&langs_count=8&theme=tokyonight" alt="Top Languages"/>
+
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=AlNahianFatin&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&show=reviews,prs,issues,commits" alt="GitHub Statistics"/>
+
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlNahianFatin&layout=compact&langs_count=8&theme=tokyonight" alt="Top Languages"/>
+
+</div>
+
+### 📈 Contribution Activity
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=AlNahianFatin&theme=tokyo-night&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true" alt="Contribution Activity" width="100%"/>
+
+</div>
+
+### 🔥 Contribution Streak
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=AlNahianFatin&theme=tokyonight&hide_border=true" alt="GitHub Contribution Streak"/>
+
 </div>
 
 ### 🏆 GitHub Achievements
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=AlNahianFatin&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4&row=2&column=3" alt="GitHub Achievements"/>
-</p>
+<div align="center">
 
-### 📈 Contribution Activity
+<img src="https://github-profile-trophy.vercel.app/?username=AlNahianFatin&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&row=2&column=4" alt="GitHub Achievements"/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=AlNahianFatin&theme=tokyo-night&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true" alt="Contribution Activity"/>
-
-### 🔥 Streak Statistics
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AlNahianFatin&theme=tokyonight&hide_border=true" alt="Streak Statistics"/>
-</p>
+</div>
 
 ### 📅 Contribution Calendar
 
-<img src="https://ghchart.rshah.org/409ba5/AlNahianFatin" alt="Contribution Calendar" width="100%"/>
+<div align="center">
+
+<img src="https://ghchart.rshah.org/409ba5/AlNahianFatin" alt="GitHub Contribution Calendar" width="100%"/>
+
+</div>
+
+---
 
 ## 🏗️ Featured Projects
 
@@ -109,17 +128,17 @@
 
 A full-stack gaming community platform
 
-[![Repo](https://img.shields.io/badge/View%20Project-GitHub-black?style=for-the-badge\&logo=github)](https://github.com/AlNahianFatin/Gamers_United)
-
----
+[![View Project](https://img.shields.io/badge/View%20Project-GitHub-black?style=for-the-badge\&logo=github)](https://github.com/AlNahianFatin/Gamers_United)
 
 </div>
+
+---
 
 ## 🌐 Let's Connect & Collaborate
 
 <div align="center">
 
-<a href="https://www.linkedin.com/in/al-nahian-fatin/" target="_blank" rel="noopener noreferrer">
+<a href="https://www.linkedin.com/in/al-nahian-fatin/">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
 
@@ -127,7 +146,7 @@ A full-stack gaming community platform
   <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
 </a>
 
-<a href="https://al-nahian-fatin-portfolio.vercel.app" target="_blank" rel="noopener noreferrer">
+<a href="https://al-nahian-fatin-portfolio.vercel.app">
   <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
 </a>
 
@@ -137,11 +156,13 @@ A full-stack gaming community platform
 
 <div align="center">
 
-<a href="https://github.com/AlNahianFatin" target="_blank" rel="noopener noreferrer">
+<a href="https://github.com/AlNahianFatin">
   <img src="https://img.shields.io/github/followers/AlNahianFatin?style=for-the-badge&logo=github&label=GitHub%20Followers" alt="GitHub Followers"/>
 </a>
 
-<a href="https://www.facebook.com/" target="_blank" rel="noopener noreferrer">
+<!-- Replace with your actual Facebook profile URL -->
+
+<a href="https://www.facebook.com/">
   <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
 </a>
 
@@ -150,10 +171,6 @@ A full-stack gaming community platform
 ---
 
 <div align="center">
-
-<sub>💡 <i>Every contribution, no matter how small, helps me maintain and improve my open source projects!</i></sub>
-
-<br><br>
 
 <img src="https://komarev.com/ghpvc/?username=AlNahianFatin&color=blueviolet&style=for-the-badge&label=Profile+Views" alt="Profile Views"/>
 
