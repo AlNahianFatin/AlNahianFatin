@@ -39,7 +39,7 @@
   <g font-family="Consolas, Menlo, 'Courier New', monospace" font-size="15" xml:space="preserve">
     <g clip-path="url(#c1)"><text x="226" y="84"><tspan fill="#bb9af7">const</tspan><tspan fill="#c0caf5"> dev = </tspan><tspan fill="#9ece6a">"Al Nahian Fatin"</tspan><tspan fill="#89ddff">;</tspan></text></g>
     <g clip-path="url(#c2)"><text x="226" y="110"><tspan fill="#bb9af7">function</tspan><tspan fill="#7aa2f7"> build</tspan><tspan fill="#c0caf5">(idea) {</tspan></text></g>
-    <g clip-path="url(#c3)"><text x="226" y="136"><tspan fill="#bb9af7">  return</tspan><tspan fill="#7aa2f7"> ship</tspan><tspan fill="#c0caf5">(idea)</tspan><tspan fill="#89ddff">;</tspan></text></g>
+    <g clip-path="url(#c3)"><text x="250" y="136"><tspan fill="#bb9af7">return</tspan><tspan fill="#7aa2f7"> ship</tspan><tspan fill="#c0caf5">(idea)</tspan><tspan fill="#89ddff">;</tspan></text></g>
     <g clip-path="url(#c4)"><text x="226" y="162"><tspan fill="#c0caf5">}</tspan></text></g>
     <g clip-path="url(#c5)"><text x="226" y="188"><tspan fill="#7aa2f7">build</tspan><tspan fill="#c0caf5">(</tspan><tspan fill="#9ece6a">"something great"</tspan><tspan fill="#c0caf5">)</tspan><tspan fill="#89ddff">;</tspan></text></g>
   </g>
