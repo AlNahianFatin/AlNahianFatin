@@ -110,16 +110,9 @@
 
 <div align="center">
 
-<!-- <a href="https://github.com/AlNahianFatin" target="_blank" rel="noopener noreferrer">
+<a href="https://github.com/AlNahianFatin" target="_blank" rel="noopener noreferrer">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=AlNahianFatin&theme=github-compact&hide_border=true" alt="GitHub Contribution Activity" width="100%"/>
-</a> -->
-
-<!-- Light Mode Snake -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AlNahianFatin/AlNahianFatin/output/github-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AlNahianFatin/AlNahianFatin/output/github-snake.svg">
-  <img alt="Contribution graph being eaten by a snake" src="https://raw.githubusercontent.com/AlNahianFatin/AlNahianFatin/output/github-snake.svg">
-</picture>
+</a>
 
 </div>
 
@@ -137,11 +130,18 @@
 
 # 📅 Contribution Calendar
 
-<div align="center">
+<!-- <div align="center">
 
 <img src="https://ghchart.rshah.org/409ba5/AlNahianFatin" alt="GitHub Contribution Calendar" width="100%"/>
 
-</div>
+</div> -->
+
+<!-- Light Mode Snake -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AlNahianFatin/AlNahianFatin/output/github-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AlNahianFatin/AlNahianFatin/output/github-snake.svg">
+  <img alt="Contribution graph being eaten by a snake" src="https://raw.githubusercontent.com/AlNahianFatin/AlNahianFatin/output/github-snake.svg">
+</picture>
 
 ---
 
