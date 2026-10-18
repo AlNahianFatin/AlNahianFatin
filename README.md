@@ -186,7 +186,7 @@ A full-stack gaming community platform.
   <img src="https://img.shields.io/github/followers/AlNahianFatin?style=for-the-badge&logo=github&label=GitHub%20Followers" alt="GitHub Followers"/>
 </a>
 
-<a href="https://www.facebook.com/share/1DN4F6LEbq/" target="_blank" rel="noopener noreferrer">
+<a href="https://www.facebook.com/AlNahianFatin" target="_blank" rel="noopener noreferrer">
   <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
 </a>
 
