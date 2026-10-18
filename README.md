@@ -114,10 +114,11 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=AlNahianFatin&theme=github-compact&hide_border=true" alt="GitHub Contribution Activity" width="100%"/>
 </a> -->
 
+<!-- Light Mode Snake -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AlNahianFatin/AlNahianFatin/output/snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AlNahianFatin/AlNahianFatin/output/snake.svg">
-  <img alt="Contribution graph being eaten by a snake" src="https://raw.githubusercontent.com/AlNahianFatin/AlNahianFatin/output/snake.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AlNahianFatin/AlNahianFatin/output/github-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AlNahianFatin/AlNahianFatin/output/github-snake.svg">
+  <img alt="Contribution graph being eaten by a snake" src="https://raw.githubusercontent.com/AlNahianFatin/AlNahianFatin/output/github-snake.svg">
 </picture>
 
 </div>
