@@ -110,9 +110,15 @@
 
 <div align="center">
 
-<a href="https://github.com/AlNahianFatin" target="_blank" rel="noopener noreferrer">
+<!-- <a href="https://github.com/AlNahianFatin" target="_blank" rel="noopener noreferrer">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=AlNahianFatin&theme=github-compact&hide_border=true" alt="GitHub Contribution Activity" width="100%"/>
-</a>
+</a> -->
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AlNahianFatin/AlNahianFatin/output/snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AlNahianFatin/AlNahianFatin/output/snake.svg">
+  <img alt="Contribution graph being eaten by a snake" src="https://raw.githubusercontent.com/AlNahianFatin/AlNahianFatin/output/snake.svg">
+</picture>
 
 </div>
 
