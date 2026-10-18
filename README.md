@@ -8,11 +8,11 @@
 
 ## 🎯 Current Focus
 
-* 🔭 Working on: **Currently exploring new project ideas**
-* 🌱 Learning: **Advanced Typescript frameworks**
-* 👯 Looking to collaborate on: **Open Source Projects involving software and web development**
-* 💬 Ask me about: **C#, Software Development, HTML, CSS, JavaScript, Typescript, Web Development, and Project Ideas**
-* ⚡ Fun fact: **I enjoy exploring new technologies and love problem-solving**
+- 🔭 Working on: **Currently exploring new project ideas**
+- 🌱 Learning: **Advanced Typescript frameworks**
+- 👯 Looking to collaborate on: **Open Source Projects involving software and web development**
+- 💬 Ask me about: **C#, Software Development, HTML, CSS, JavaScript, Typescript, Web Development, and Project Ideas**
+- ⚡ Fun fact: **I enjoy exploring new technologies and love problem-solving**
 
 ---
 
@@ -20,7 +20,7 @@
 
 ### 💻 Programming Languages
 
-<div>
+<div align="center">
 
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2b%2b&logoColor=white)
@@ -38,7 +38,7 @@
 
 ### 🚀 Frameworks & Libraries
 
-<div>
+<div align="center">
 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
@@ -54,7 +54,7 @@
 
 ### ☁️ Tools & Development
 
-<div>
+<div align="center">
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
@@ -69,7 +69,7 @@
 
 ### 🗄️ Databases
 
-<div>
+<div align="center">
 
 ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
 ![Microsoft SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
@@ -128,20 +128,17 @@
 
 ---
 
-# 📅 Contribution Calendar
+# 📅 Contribution Calendar & Snake
 
-<!-- <div align="center">
+<div align="center">
 
-<img src="https://ghchart.rshah.org/409ba5/AlNahianFatin" alt="GitHub Contribution Calendar" width="100%"/>
-
-</div> -->
-
-<!-- Light Mode Snake -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AlNahianFatin/AlNahianFatin/output/github-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AlNahianFatin/AlNahianFatin/output/github-snake.svg">
   <img alt="Contribution graph being eaten by a snake" src="https://raw.githubusercontent.com/AlNahianFatin/AlNahianFatin/output/github-snake.svg">
 </picture>
+
+</div>
 
 ---
 
@@ -201,7 +198,7 @@ A full-stack gaming community platform.
 
 <img src="https://komarev.com/ghpvc/?username=AlNahianFatin&color=blueviolet&style=for-the-badge&label=Profile+Views" alt="Profile Views"/>
 
-<br/>
+<br/><br/>
 
 ### 🚀 "Code is poetry, and every commit tells a story"
 
