@@ -2,9 +2,11 @@
 
 <div align="center">
 
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=8957E5&center=true&vCenter=true&width=650&lines=Aspiring+Software+Engineer;Full-Stack+Developer;Exploring+Modern+Technologies;Building+Scalable+Software+Solutions" alt="Typing SVG" />
-</a>
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=8957E5&center=true&vCenter=true&width=650&lines=Aspiring+Software+Engineer;Full-Stack+Developer;Exploring+Modern+Technologies;Building+Scalable+Software+Solutions" alt="Typing SVG" />
+  </a>
+
+</div>
 
 ### 🚀 Building the future, one commit at a time
 
