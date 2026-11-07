@@ -75,6 +75,14 @@
 ![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
 ![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+<img
+  src="assets/BKash-Icon-Logo.wine.svg"
+  alt="bKash"
+  height="28"
+  style="background-color: transparent;"
+/>
+![bKash](https://img.shields.io/badge/bKash-E2136E?style=for-the-badge&logo=bkash&logoColor=white)
+![Stripe](https://img.shields.io/badge/Stripe-635BFF?style=for-the-badge&logo=stripe&logoColor=white)
 
 </div>
 
