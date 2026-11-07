@@ -76,7 +76,7 @@
 ![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 <img
-  src="assets/BKash-Icon-Logo.wine.svg"
+  src="assets/BKash-Icon-Logo.svg"
   alt="bKash"
   height="28"
   style="background-color: transparent;"
