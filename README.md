@@ -11,7 +11,7 @@
 ### 🚀 Building the future, one commit at a time
 
 <div align="center">
-  <img src="assets/software-engineer.svg" alt="Animated software engineer at work" width="100%"/>
+  <img src="assets/Software-Engineer.svg" alt="Animated software engineer at work" width="100%"/>
 </div>
 
 ## 🎯 Current Focus
@@ -32,14 +32,32 @@
 
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2b%2b&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+<img
+  src="assets/Java-Logo.svg"
+  alt="Java"
+  height="28"
+  style="background-color: #FF6C37;"
+/>
+![Java](https://img.shields.io/badge/Java-FF6C37?style=for-the-badge&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css&logoColor=white)
+<img
+  src="assets/CSS3-Logo.svg"
+  alt="CSS3"
+  height="28"
+  style="background-color: #007FFF;"
+/>
+![CSS3](https://img.shields.io/badge/CSS3-007FFF?style=for-the-badge&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-9437ED?style=for-the-badge&logo=csharp&logoColor=white)
+<img
+  src="assets/CSharp-Logo.svg"
+  alt="C#"
+  height="28"
+  style="background-color: #762CA7;"
+/>
+![C#](https://img.shields.io/badge/C%23-762CA7?style=for-the-badge&logo=csharp&logoColor=white)
 
 </div>
 
@@ -69,14 +87,26 @@
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white)
+<img
+  src="assets/Visual-Studio-Code-Logo.svg"
+  alt="Visual Studio Code"
+  height="28"
+  style="background-color: #1F9CF0;"
+/>
+![VS Code](https://img.shields.io/badge/VS%20Code-1F9CF0?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+<img
+  src="assets/Visual-Studio-Logo.svg"
+  alt="Visual Studio"
+  height="28"
+  style="background-color: #A855F7;"
+/>
+![Visual Studio](https://img.shields.io/badge/Visual%20Studio-A855F7?style=for-the-badge&logo=visualstudio&logoColor=white)
 ![TypeORM](https://img.shields.io/badge/TypeORM-FE0803?style=for-the-badge&logo=typeorm&logoColor=white)
 ![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
 ![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 <img
-  src="assets/BKash-Icon-Logo.svg"
+  src="assets/BKash-Logo.svg"
   alt="bKash"
   height="28"
   style="background-color: transparent;"
@@ -90,8 +120,26 @@
 
 <div>
 
-![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+<img
+  src="assets/Oracle-Logo.svg"
+  alt="Oracle"
+  height="28"
+  style="background-color: transparent;"
+/>
+![Oracle](https://img.shields.io/badge/Oracle-E60023?style=for-the-badge&logo=oracle&logoColor=white)
+<img
+  src="assets/Microsoft-SQL-Server-Logo.svg"
+  alt="Microsoft SQL Server"
+  height="28"
+  style="background-color: #CC2927;"
+/>
 ![Microsoft SQL Server](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+<img
+  src="assets/SSMS-Logo.svg"
+  alt="SSMS"
+  height="28"
+  style="background-color: #0078D4;"
+/>
 ![SSMS](https://img.shields.io/badge/SSMS-0078D4?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
