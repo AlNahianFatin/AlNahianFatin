@@ -1,8 +1,10 @@
-<h1 align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=8957E5&width=435&lines=Hello%2C+There!;This+is+Al+Nahian+Fatin...;An+Aspiring+Software+Engineer...;Nice+to+Meet+You!" alt="Typing SVG" />
-  </a>
-</h1>
+# 👋 Hello, I'm Al Nahian Fatin!
+
+<div align="center">
+
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=8957E5&center=true&vCenter=true&width=650&lines=Aspiring+Software+Engineer;Full-Stack+Developer;Exploring+Modern+Technologies;Building+Scalable+Software+Solutions" alt="Typing SVG" />
+</a>
 
 ### 🚀 Building the future, one commit at a time
 
@@ -67,7 +69,7 @@
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white)
-![TypeORM](https://img.shields.io/badge/typeorm-FE0803?style=for-the-badge)
+![TypeORM](https://img.shields.io/badge/TypeORM-FE0803?style=for-the-badge&logo=typeorm&logoColor=white)
 ![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
 ![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
@@ -91,7 +93,7 @@
 
 ---
 
-# 📊 GitHub Statistics
+## 📊 GitHub Statistics
 
 <div align="center">
 
@@ -103,7 +105,7 @@
 
 ---
 
-# 🏆 GitHub Achievements
+## 🏆 GitHub Achievements
 
 <div align="center">
 
@@ -115,7 +117,7 @@
 
 ---
 
-# 📈 Contribution Activity
+## 📈 Contribution Activity
 
 <div align="center">
 
@@ -127,7 +129,7 @@
 
 ---
 
-# 🔥 Contribution Streak
+## 🔥 Contribution Streak
 
 <div align="center">
 
@@ -137,7 +139,7 @@
 
 ---
 
-# 📅 Contribution Calendar & Snake
+## 🐍 Contribution Snake
 
 <div align="center">
 
@@ -151,11 +153,11 @@
 
 ---
 
-# 🏗️ Featured Projects
+## 🏗️ Featured Projects
 
 <div align="center">
 
-## 🚀 Gamers United
+### 🚀 Gamers United
 
 A full-stack gaming community platform.
 
@@ -167,7 +169,7 @@ A full-stack gaming community platform.
 
 ---
 
-# 🌐 Let's Connect & Collaborate
+## 🌐 Let's Connect & Collaborate
 
 <div align="center">
 
@@ -187,7 +189,7 @@ A full-stack gaming community platform.
 
 ---
 
-# 📱 Social Presence
+## 📱 Social Presence
 
 <div align="center">
 
