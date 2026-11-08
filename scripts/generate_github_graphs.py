@@ -150,21 +150,32 @@ def icon_svg(kind: str, x: float, y: float, color: str = ICON) -> str:
 
 
 def github_mark(cx: float, cy: float) -> list[str]:
-    """Decorative GitHub mark, drawn locally so no image API is needed."""
+    """Draw a recognizable GitHub Octocat mark as native SVG geometry.
+
+    The official-style 24x24 silhouette is placed in a nested SVG viewport,
+    which avoids transform-order/scaling issues and keeps it centered.
+    """
     octocat = (
-        "M12 .9C5.85.9.9 5.9.9 12.05c0 4.92 3.19 9.1 7.62 10.58.56.1.76-.24.76-.54v-2.08"
-        "c-3.1.68-3.76-1.32-3.76-1.32-.5-1.28-1.24-1.62-1.24-1.62-1.01-.69.08-.68.08-.68"
-        "1.12.08 1.71 1.15 1.71 1.15.99 1.7 2.6 1.21 3.23.92.1-.72.39-1.21.7-1.49"
-        "-2.48-.28-5.09-1.25-5.09-5.54 0-1.22.43-2.22 1.15-3-.12-.28-.5-1.42.11-2.96"
-        "0 0 .94-.3 3.08 1.15a10.7 10.7 0 0 1 5.6 0c2.14-1.45 3.08-1.15 3.08-1.15"
-        ".61 1.54.23 2.68.11 2.96.72.78 1.15 1.78 1.15 3.01 0 4.3-2.62 5.25-5.11 5.53"
-        ".4.35-.76 1.02-.76 2.06v3.05c0 .3.2.65.77.54a11.16 11.16 0 0 0 7.6-10.58C23.1 5.9 18.15.9 12 .9z"
+        "M12 .297c-6.63 0-12 5.373-12 12 0 5.303 3.438 9.8 "
+        "8.205 11.385.6.113.82-.258.82-.577 0-.285-.01-1.04-.015-2.04 "
+        "-3.338.724-4.042-1.61-4.042-1.61-.546-1.387-1.333-1.756-1.333-1.756 "
+        "-1.09-.745.083-.729.083-.729 1.205.084 1.84 1.237 1.84 1.237 "
+        "1.07 1.834 2.807 1.304 3.492.997.108-.775.418-1.305.762-1.605 "
+        "-2.665-.3-5.466-1.332-5.466-5.93 0-1.31.465-2.38 1.235-3.22 "
+        "-.135-.303-.54-1.523.105-3.176 0 0 1.005-.322 3.3 1.23 "
+        ".96-.267 1.98-.4 3-.405 1.02.005 2.04.138 3 .405 "
+        "2.28-1.552 3.285-1.23 3.285-1.23.645 1.653.24 2.873.12 3.176 "
+        ".765.84 1.23 1.91 1.23 3.22 0 4.61-2.805 5.625-5.475 5.92 "
+        ".435.375.81 1.096.81 2.22 0 1.606-.015 2.896-.015 3.286 "
+        "0 .315.21.69.825.57C20.565 21.795 24 17.295 24 12 "
+        "c0-6.627-5.373-12-12-12"
     )
+    mark_size = 44
     return [
         f'<circle cx="{cx}" cy="{cy}" r="42" fill="none" stroke="{LILAC}" stroke-opacity="0.35" stroke-width="6"/>',
         f'<path d="M {cx} {cy-42} A 42 42 0 0 1 {cx+17} {cy-38}" fill="none" stroke="{PURPLE}" stroke-width="6" stroke-linecap="round"/>',
         f'<circle cx="{cx}" cy="{cy}" r="33" fill="{PURPLE}" fill-opacity="0.12" stroke="{LILAC}" stroke-opacity="0.5"/>',
-        f'<path d="{octocat}" transform="translate({cx-24},{cy-24}) scale(2)" fill="{PURPLE}"/>',
+        f'<svg x="{cx-mark_size/2:.1f}" y="{cy-mark_size/2:.1f}" width="{mark_size}" height="{mark_size}" viewBox="0 0 24 24" aria-label="GitHub Octocat logo"><path d="{octocat}" fill="{PURPLE}"/></svg>',
     ]
 
 
@@ -207,7 +218,7 @@ def generate_languages(repos: list[dict]) -> None:
         lines.append(text(22, 85, "No language data available", 13, MUTED))
     else:
         total_bytes = sum(v for _, v in ranked)
-        palette = [PURPLE, LILAC, YELLOW, "#7040C0", "#B9A0F5", "#D8C9FF", "#A67CEB", "#6B4AA8"]
+        palette = [PURPLE, LILAC, YELLOW, "#58A6FF", "#3FB950", "#F78166", "#D2A8FF", "#8B949E"]
         x, y, bar_w = 22, 63, 451
         cursor = x
         for idx, (_, amount) in enumerate(ranked):
