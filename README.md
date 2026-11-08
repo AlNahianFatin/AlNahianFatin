@@ -155,10 +155,6 @@
 
 <div align="center">
 
-<!-- ![GitHub Stats](https://github-readme-stats.shion.dev/api?username=AlNahianFatin&theme=transparent&hide_border=false&include_all_commits=true&count_private=true)
-
-![Most Used Languages](https://github-readme-stats.shion.dev/api/top-langs/?username=AlNahianFatin&theme=transparent&hide_border=false&include_all_commits=true&count_private=true&layout=compact) -->
-
   <img src="./profile/stats.svg" alt="GitHub Statistics"/>
 
   <img src="./profile/top-langs.svg" alt="Most Used Languages"/>
@@ -171,10 +167,6 @@
 
 <div align="center">
 
-<!-- <a href="https://github.com/ryo-ma/github-profile-trophy" target="_blank" rel="noopener noreferrer">
-  <img src="https://github-profile-trophy.vercel.app/?username=AlNahianFatin&theme=onedark&column=4&row=2&margin-w=15&margin-h=15" alt="GitHub Trophies"/>
-</a> -->
-
 <img src="./profile/milestones.svg" alt="GitHub Milestones"/>
 
 </div>
@@ -184,10 +176,6 @@
 ## 📈 Contribution Activity
 
 <div align="center">
-
-<!-- <a href="https://github.com/AlNahianFatin" target="_blank" rel="noopener noreferrer">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AlNahianFatin&theme=github-compact&hide_border=true" alt="GitHub Contribution Activity" width="100%"/>
-</a> -->
 
  <img
     src="./profile/activity.svg"
