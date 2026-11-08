@@ -134,6 +134,9 @@ jobs:
             - name: Checkout profile repository
               uses: actions/checkout@v7
 
+            - name: Create output directory
+              run: mkdir -p profile
+
             - name: Generate streak SVG
               uses: DenverCoder1/github-readme-streak-stats@v1
               with:
@@ -142,66 +145,18 @@ jobs:
                       user=AlNahianFatin&theme=transparent&hide_border=true&border_radius=5&timezone=Asia%2FDhaka&short_numbers=true&date_format=j%20M%5B%20Y%5D&background=00000000&stroke=8957E5&ring=A78BFA&fire=FACC15&currStreakNum=8957E5&sideNums=8957E5&currStreakLabel=A78BFA&sideLabels=A78BFA&dates=808080&excludeDaysLabel=808080
                   path: profile/streak.svg
 
-            - name: Add animated yellow fire glow
+            - name: Verify generated SVG
               run: |
-                  python3 - <<'PY'
-                  from pathlib import Path
-                  import re
+                  if [ ! -s profile/streak.svg ]; then
+                    echo "::error::Streak SVG was not generated or is empty."
+                    exit 1
+                  fi
 
-                  path = Path("profile/streak.svg")
+                  echo "Streak SVG generated successfully."
+                  ls -lh profile/streak.svg
+                  head -c 200 profile/streak.svg
 
-                  if not path.exists():
-                      raise SystemExit("Streak SVG was not generated.")
-
-                  svg = path.read_text(encoding="utf-8")
-
-                  glow = """
-                  <filter id="fireGlow" x="-100%" y="-100%" width="300%" height="300%">
-                    <feGaussianBlur in="SourceGraphic" stdDeviation="2" result="blur">
-                      <animate attributeName="stdDeviation"
-                        values="1.5;3.5;1.5"
-                        dur="1.6s"
-                        repeatCount="indefinite"/>
-                    </feGaussianBlur>
-                    <feMerge>
-                      <feMergeNode in="blur"/>
-                      <feMergeNode in="SourceGraphic"/>
-                    </feMerge>
-                  </filter>
-                  """
-
-                  if 'id="fireGlow"' not in svg:
-                      if "</defs>" in svg:
-                          svg = svg.replace("</defs>", glow + "\n</defs>", 1)
-                      else:
-                          svg = re.sub(
-                              r"(<svg\b[^>]*>)",
-                              lambda m: m.group(1) + "\n<defs>" + glow + "</defs>",
-                              svg,
-                              count=1
-                          )
-
-                  # Apply the filter to SVG elements using the yellow fire color.
-                  svg, count = re.subn(
-                      r'<(path|circle|rect|polygon|g)\b([^>]*'
-                      r'fill=["\']#?FACC15["\'][^>]*)>',
-                      lambda m: (
-                          f'<{m.group(1)}{m.group(2)} '
-                          f'filter="url(#fireGlow)">'
-                      ),
-                      svg,
-                      flags=re.IGNORECASE
-                  )
-
-                  if count == 0:
-                      print("Warning: No matching yellow fire element found.")
-                      print("The streak card was generated, but the custom glow was not attached.")
-
-                  path.write_text(svg, encoding="utf-8")
-                  print(f"Fire glow applied to {count} SVG element(s).")
-                  PY
-
-            - name: Commit streak SVG
+            - name: Commit and push streak SVG
               run: |
                   git config user.name "github-actions[bot]"
                   git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
@@ -209,7 +164,7 @@ jobs:
                   git add profile/streak.svg
 
                   if git diff --cached --quiet; then
-                    echo "No streak changes to commit."
+                    echo "No changes to the streak SVG."
                     exit 0
                   fi
 

@@ -11,7 +11,7 @@
 ### 🚀 Building the future, one commit at a time
 
 <div align="center">
-  <img src="assets/Software-Engineer.svg" alt="Animated software engineer at work" width="100%"/>
+  <img src="assets/Software-Enginee.svg" alt="Animated software engineer at work" width="100%"/>
 </div>
 
 ## 🎯 Current Focus
@@ -241,7 +241,13 @@ A full-stack gaming community platform.
 <div align="center">
 
 <a href="https://www.linkedin.com/in/al-nahian-fatin/" target="_blank" rel="noopener noreferrer">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  <img
+  src="assets/Linkedin-Logo.svg"
+  alt="Linkedin"
+  height="28"
+  style="background-color: #1877F2;"
+/>
+  <img src="https://img.shields.io/badge/LinkedIn-1877F2?style=for-the-badge&logoColor=white" alt="LinkedIn"/>
 </a>
 
 <a href="mailto:fatinnahian@gmail.com">
