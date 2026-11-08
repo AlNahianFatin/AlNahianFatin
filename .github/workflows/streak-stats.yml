@@ -1,0 +1,111 @@
+name: Generate GitHub Streak Stats
+
+on:
+    schedule:
+        # Every day at 9:00 AM Bangladesh time (03:00 UTC)
+        - cron: "0 3 * * *"
+
+    workflow_dispatch:
+
+    push:
+        paths:
+            - ".github/workflows/streak-stats.yml"
+
+permissions:
+    contents: write
+
+jobs:
+    build:
+        runs-on: ubuntu-latest
+
+        steps:
+            - name: Checkout profile repository
+              uses: actions/checkout@v4
+
+            - name: Generate streak SVG
+              uses: DenverCoder1/github-readme-streak-stats@v1
+              with:
+                  token: ${{ secrets.GH_PAT }}
+                  options: >-
+                      user=AlNahianFatin
+                      &theme=transparent
+                      &hide_border=true
+                      &border_radius=5
+                      &timezone=Asia%2FDhaka
+                      &short_numbers=true
+                      &date_format=j%20M%5B%20Y%5D
+                      &background=00000000
+                      &stroke=8957E5
+                      &ring=A78BFA
+                      &fire=FACC15
+                      &currStreakNum=8957E5
+                      &sideNums=8957E5
+                      &currStreakLabel=A78BFA
+                      &sideLabels=A78BFA
+                      &dates=808080
+                      &excludeDaysLabel=808080
+                  path: profile/streak.svg
+
+            - name: Add animated yellow fire glow
+              run: |
+                  python3 - <<'PY'
+                  from pathlib import Path
+                  import re
+
+                  path = Path("profile/streak.svg")
+                  svg = path.read_text(encoding="utf-8")
+
+                  glow = """
+                  <filter id="fireGlow" x="-100%" y="-100%" width="300%" height="300%">
+                    <feGaussianBlur stdDeviation="2.5" result="blur">
+                      <animate attributeName="stdDeviation"
+                        values="1.5;3.5;1.5"
+                        dur="1.6s" repeatCount="indefinite"/>
+                    </feGaussianBlur>
+                    <feMerge>
+                      <feMergeNode in="blur"/>
+                      <feMergeNode in="SourceGraphic"/>
+                    </feMerge>
+                  </filter>
+                  """
+
+                  if "</defs>" in svg:
+                      svg = svg.replace("</defs>", glow + "\n</defs>", 1)
+                  else:
+                      svg = re.sub(
+                          r"(<svg\b[^>]*>)",
+                          r"\1\n<defs>" + glow + "</defs>",
+                          svg,
+                          count=1
+                      )
+
+                  # Apply the animated glow to yellow elements.
+                  svg = re.sub(
+                      r'(<(?:path|circle|rect|polygon|g)\b[^>]*'
+                      r'fill=["\']#?FACC15["\'][^>]*>)',
+                      lambda m: (
+                          m.group(1) if "fireGlow" in m.group(1)
+                          else m.group(1)[:-1] + ' filter="url(#fireGlow)">'
+                      ),
+                      svg,
+                      flags=re.IGNORECASE
+                  )
+
+                  path.write_text(svg, encoding="utf-8")
+                  print("Animated fire glow processing completed.")
+                  PY
+
+            - name: Commit streak SVG
+              run: |
+                  git config user.name "github-actions[bot]"
+                  git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
+                  git add profile/streak.svg
+
+                  if git diff --cached --quiet; then
+                    echo "No streak changes to commit."
+                    exit 0
+                  fi
+
+                  git commit -m "Update GitHub streak stats"
+                  git push

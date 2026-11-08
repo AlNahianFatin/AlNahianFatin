@@ -191,7 +191,16 @@
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com/?user=AlNahianFatin&theme=tokyonight&hide_border=true" alt="GitHub Contribution Streak"/>
+<!-- <img src="https://streak-stats.demolab.com/?user=AlNahianFatin&theme=tokyonight&hide_border=true" alt="GitHub Contribution Streak"/> -->
+
+
+
+<!-- [![GitHub Streak](https://streak-stats.demolab.com?user=AlNahianFatin&theme=transparent&hide_border=true&border_radius=5&timezone=Asia%2FDhaka&short_numbers=true&date_format=j%20M%5B%20Y%5D&background=00000000&stroke=8957E5&ring=A78BFA&fire=FACC15&currStreakNum=8957E5&sideNums=8957E5&currStreakLabel=#A78BFA&sideLabels=#A78BFA&dates=808080&excludeDaysLabel=808080)](https://git.io/streak-stats) -->
+
+
+[![GitHub Streak](./profile/streak.svg)](https://github.com/AlNahianFatin)
+
+
 
 </div>
 
