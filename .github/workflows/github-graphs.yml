@@ -1,0 +1,68 @@
+name: Generate GitHub Profile Graphs
+
+on:
+  schedule:
+    # Daily at 03:15 UTC (09:15 Bangladesh time)
+    - cron: "15 3 * * *"
+  workflow_dispatch:
+  push:
+    paths:
+      - ".github/workflows/github-graphs.yml"
+      - "scripts/generate_github_graphs.py"
+
+permissions:
+  contents: write
+
+jobs:
+  generate:
+    runs-on: ubuntu-24.04
+    steps:
+      - name: Checkout profile repository
+        uses: actions/checkout@v7
+
+      - name: Set up Python
+        uses: actions/setup-python@v6
+        with:
+          python-version: "3.12"
+
+      - name: Generate local SVG graphs
+        env:
+          GITHUB_USERNAME: AlNahianFatin
+          GITHUB_TOKEN: ${{ secrets.GH_PAT }}
+          OUTPUT_DIR: profile
+        run: python scripts/generate_github_graphs.py
+
+      - name: Validate generated SVG files
+        run: |
+          python - <<'PY'
+          import xml.etree.ElementTree as ET
+          from pathlib import Path
+
+          files = [
+              Path("profile/stats.svg"),
+              Path("profile/top-langs.svg"),
+              Path("profile/activity.svg"),
+              Path("profile/milestones.svg"),
+          ]
+
+          for path in files:
+              if not path.is_file() or path.stat().st_size == 0:
+                  raise SystemExit(f"Missing or empty SVG: {path}")
+              ET.parse(path)
+              print(f"Valid: {path} ({path.stat().st_size} bytes)")
+          PY
+
+      - name: Commit and push generated graphs
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
+          git add profile/stats.svg profile/top-langs.svg profile/activity.svg profile/milestones.svg
+
+          if git diff --cached --quiet; then
+            echo "No graph changes to commit."
+            exit 0
+          fi
+
+          git commit -m "Update GitHub profile graphs"
+          git push

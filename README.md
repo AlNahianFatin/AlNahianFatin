@@ -155,9 +155,13 @@
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.shion.dev/api?username=AlNahianFatin&theme=transparent&hide_border=false&include_all_commits=true&count_private=true)
+<!-- ![GitHub Stats](https://github-readme-stats.shion.dev/api?username=AlNahianFatin&theme=transparent&hide_border=false&include_all_commits=true&count_private=true)
 
-![Most Used Languages](https://github-readme-stats.shion.dev/api/top-langs/?username=AlNahianFatin&theme=transparent&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![Most Used Languages](https://github-readme-stats.shion.dev/api/top-langs/?username=AlNahianFatin&theme=transparent&hide_border=false&include_all_commits=true&count_private=true&layout=compact) -->
+
+  <img src="./profile/stats.svg" alt="GitHub Statistics"/>
+
+  <img src="./profile/top-langs.svg" alt="Most Used Languages"/>
 
 </div>
 
@@ -167,9 +171,11 @@
 
 <div align="center">
 
-<a href="https://github.com/ryo-ma/github-profile-trophy" target="_blank" rel="noopener noreferrer">
+<!-- <a href="https://github.com/ryo-ma/github-profile-trophy" target="_blank" rel="noopener noreferrer">
   <img src="https://github-profile-trophy.vercel.app/?username=AlNahianFatin&theme=onedark&column=4&row=2&margin-w=15&margin-h=15" alt="GitHub Trophies"/>
-</a>
+</a> -->
+
+<img src="./profile/milestones.svg" alt="GitHub Milestones"/>
 
 </div>
 
@@ -179,9 +185,15 @@
 
 <div align="center">
 
-<a href="https://github.com/AlNahianFatin" target="_blank" rel="noopener noreferrer">
+<!-- <a href="https://github.com/AlNahianFatin" target="_blank" rel="noopener noreferrer">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=AlNahianFatin&theme=github-compact&hide_border=true" alt="GitHub Contribution Activity" width="100%"/>
-</a>
+</a> -->
+
+ <img
+    src="./profile/activity.svg"
+    alt="GitHub Contribution Activity"
+    width="100%"
+  />
 
 </div>
 
@@ -191,19 +203,10 @@
 
 <div align="center">
 
-<!-- <img src="https://streak-stats.demolab.com/?user=AlNahianFatin&theme=tokyonight&hide_border=true" alt="GitHub Contribution Streak"/> -->
-
-
-
-<!-- [![GitHub Streak](https://streak-stats.demolab.com?user=AlNahianFatin&theme=transparent&hide_border=true&border_radius=5&timezone=Asia%2FDhaka&short_numbers=true&date_format=j%20M%5B%20Y%5D&background=00000000&stroke=8957E5&ring=A78BFA&fire=FACC15&currStreakNum=8957E5&sideNums=8957E5&currStreakLabel=#A78BFA&sideLabels=#A78BFA&dates=808080&excludeDaysLabel=808080)](https://git.io/streak-stats) -->
-
   <img
     src="https://raw.githubusercontent.com/AlNahianFatin/AlNahianFatin/main/profile/streak.svg"
     alt="GitHub Streak Stats"
   />
-
-
-
 
 </div>
 
