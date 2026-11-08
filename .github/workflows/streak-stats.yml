@@ -1,172 +1,193 @@
-# name: Generate GitHub Streak Stats
-
-# on:
-#     schedule:
-#         # Every day at 9:00 AM Bangladesh time (03:00 UTC)
-#         - cron: "0 3 * * *"
-
-#     workflow_dispatch:
-
-#     push:
-#         paths:
-#             - ".github/workflows/streak-stats.yml"
-
-# permissions:
-#     contents: write
-
-# jobs:
-#     build:
-#         runs-on: ubuntu-latest
-
-#         steps:
-#             - name: Checkout profile repository
-#               uses: actions/checkout@v4
-
-#             - name: Generate streak SVG
-#               uses: DenverCoder1/github-readme-streak-stats@v1
-#               with:
-#                   token: ${{ secrets.GH_PAT }}
-#                   options: >-
-#                       user=AlNahianFatin
-#                       &theme=transparent
-#                       &hide_border=true
-#                       &border_radius=5
-#                       &timezone=Asia%2FDhaka
-#                       &short_numbers=true
-#                       &date_format=j%20M%5B%20Y%5D
-#                       &background=00000000
-#                       &stroke=8957E5
-#                       &ring=A78BFA
-#                       &fire=FACC15
-#                       &currStreakNum=8957E5
-#                       &sideNums=8957E5
-#                       &currStreakLabel=A78BFA
-#                       &sideLabels=A78BFA
-#                       &dates=808080
-#                       &excludeDaysLabel=808080
-#                   path: profile/streak.svg
-
-#             - name: Add animated yellow fire glow
-#               run: |
-#                   python3 - <<'PY'
-#                   from pathlib import Path
-#                   import re
-
-#                   path = Path("profile/streak.svg")
-#                   svg = path.read_text(encoding="utf-8")
-
-#                   glow = """
-#                   <filter id="fireGlow" x="-100%" y="-100%" width="300%" height="300%">
-#                     <feGaussianBlur stdDeviation="2.5" result="blur">
-#                       <animate attributeName="stdDeviation"
-#                         values="1.5;3.5;1.5"
-#                         dur="1.6s" repeatCount="indefinite"/>
-#                     </feGaussianBlur>
-#                     <feMerge>
-#                       <feMergeNode in="blur"/>
-#                       <feMergeNode in="SourceGraphic"/>
-#                     </feMerge>
-#                   </filter>
-#                   """
-
-#                   if "</defs>" in svg:
-#                       svg = svg.replace("</defs>", glow + "\n</defs>", 1)
-#                   else:
-#                       svg = re.sub(
-#                           r"(<svg\b[^>]*>)",
-#                           r"\1\n<defs>" + glow + "</defs>",
-#                           svg,
-#                           count=1
-#                       )
-
-#                   # Apply the animated glow to yellow elements.
-#                   svg = re.sub(
-#                       r'(<(?:path|circle|rect|polygon|g)\b[^>]*'
-#                       r'fill=["\']#?FACC15["\'][^>]*>)',
-#                       lambda m: (
-#                           m.group(1) if "fireGlow" in m.group(1)
-#                           else m.group(1)[:-1] + ' filter="url(#fireGlow)">'
-#                       ),
-#                       svg,
-#                       flags=re.IGNORECASE
-#                   )
-
-#                   path.write_text(svg, encoding="utf-8")
-#                   print("Animated fire glow processing completed.")
-#                   PY
-
-#             - name: Commit streak SVG
-#               run: |
-#                   git config user.name "github-actions[bot]"
-#                   git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-
-#                   git add profile/streak.svg
-
-#                   if git diff --cached --quiet; then
-#                     echo "No streak changes to commit."
-#                     exit 0
-#                   fi
-
-#                   git commit -m "Update GitHub streak stats"
-#                   git push
-
 name: Generate GitHub Streak Stats
 
 on:
-    schedule:
-        # Every day at 9:00 AM Bangladesh time (03:00 UTC)
-        - cron: "0 3 * * *"
+  schedule:
+    # Run daily at 09:00 Bangladesh time (UTC+6)
+    - cron: "0 3 * * *"
 
-    workflow_dispatch:
+  workflow_dispatch:
 
-    push:
-        paths:
-            - ".github/workflows/streak-stats.yml"
+  push:
+    paths:
+      - ".github/workflows/streak-stats.yml"
 
 permissions:
-    contents: write
+  contents: write
 
 jobs:
-    build:
-        runs-on: ubuntu-24.04
+  build:
+    runs-on: ubuntu-24.04
 
-        steps:
-            - name: Checkout profile repository
-              uses: actions/checkout@v7
+    steps:
+      # 1. Checkout profile repository
+      - name: Checkout profile repository
+        uses: actions/checkout@v7
 
-            - name: Create output directory
-              run: mkdir -p profile
+      # 2. Create output directory
+      - name: Create output directory
+        run: mkdir -p profile
 
-            - name: Generate streak SVG
-              uses: DenverCoder1/github-readme-streak-stats@v1
-              with:
-                  token: ${{ secrets.GH_PAT }}
-                  options: >-
-                      user=AlNahianFatin&theme=transparent&hide_border=true&border_radius=5&timezone=Asia%2FDhaka&short_numbers=true&date_format=j%20M%5B%20Y%5D&background=00000000&stroke=8957E5&ring=A78BFA&fire=FACC15&currStreakNum=8957E5&sideNums=8957E5&currStreakLabel=A78BFA&sideLabels=A78BFA&dates=808080&excludeDaysLabel=808080
-                  path: profile/streak.svg
+      # 3. Generate GitHub Streak SVG
+      - name: Generate streak SVG
+        uses: DenverCoder1/github-readme-streak-stats@v1
+        with:
+          token: ${{ secrets.GH_PAT }}
+          options: >-
+            user=AlNahianFatin&theme=transparent&hide_border=true&border_radius=5&timezone=Asia%2FDhaka&short_numbers=true&date_format=j%20M%5B%20Y%5D&background=00000000&stroke=8957E5&ring=A78BFA&fire=FACC15&currStreakNum=8957E5&sideNums=8957E5&currStreakLabel=A78BFA&sideLabels=A78BFA&dates=808080&excludeDaysLabel=808080
+          path: profile/streak.svg
 
-            - name: Verify generated SVG
-              run: |
-                  if [ ! -s profile/streak.svg ]; then
-                    echo "::error::Streak SVG was not generated or is empty."
-                    exit 1
-                  fi
+      # 4. Add animated glow to the yellow fire icon
+      - name: Add animated fire glow
+        run: |
+          python3 <<'PY'
+          import xml.etree.ElementTree as ET
 
-                  echo "Streak SVG generated successfully."
-                  ls -lh profile/streak.svg
-                  head -c 200 profile/streak.svg
+          SVG_NS = "http://www.w3.org/2000/svg"
 
-            - name: Commit and push streak SVG
-              run: |
-                  git config user.name "github-actions[bot]"
-                  git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          ET.register_namespace("", SVG_NS)
+          ET.register_namespace("xlink", "http://www.w3.org/1999/xlink")
 
-                  git add profile/streak.svg
+          svg_path = "profile/streak.svg"
 
-                  if git diff --cached --quiet; then
-                    echo "No changes to the streak SVG."
-                    exit 0
-                  fi
+          # Parse the generated SVG
+          tree = ET.parse(svg_path)
+          root = tree.getroot()
 
-                  git commit -m "Update GitHub streak stats"
-                  git push
+          # Find the SVG definitions section
+          defs = root.find(f"{{{SVG_NS}}}defs")
+
+          if defs is None:
+              raise RuntimeError("SVG definitions section was not found.")
+
+          # Prevent duplicate filters
+          existing_filter = defs.find(
+              f"{{{SVG_NS}}}filter[@id='fireGlow']"
+          )
+
+          if existing_filter is not None:
+              defs.remove(existing_filter)
+
+          # Create animated glow filter
+          glow = ET.SubElement(
+              defs,
+              f"{{{SVG_NS}}}filter",
+              {
+                  "id": "fireGlow",
+                  "x": "-100%",
+                  "y": "-100%",
+                  "width": "300%",
+                  "height": "300%"
+              }
+          )
+
+          blur = ET.SubElement(
+              glow,
+              f"{{{SVG_NS}}}feGaussianBlur",
+              {
+                  "in": "SourceGraphic",
+                  "stdDeviation": "2",
+                  "result": "blur"
+              }
+          )
+
+          # Animate the blur to create a pulsing glow
+          ET.SubElement(
+              blur,
+              f"{{{SVG_NS}}}animate",
+              {
+                  "attributeName": "stdDeviation",
+                  "values": "1.5;3.5;1.5",
+                  "dur": "1.6s",
+                  "repeatCount": "indefinite"
+              }
+          )
+
+          merge = ET.SubElement(
+              glow,
+              f"{{{SVG_NS}}}feMerge"
+          )
+
+          ET.SubElement(
+              merge,
+              f"{{{SVG_NS}}}feMergeNode",
+              {"in": "blur"}
+          )
+
+          ET.SubElement(
+              merge,
+              f"{{{SVG_NS}}}feMergeNode",
+              {"in": "SourceGraphic"}
+          )
+
+          # Find the yellow fire icon
+          fire_paths = [
+              element
+              for element in root.iter(f"{{{SVG_NS}}}path")
+              if element.get("fill", "").lower() == "#facc15"
+          ]
+
+          if not fire_paths:
+              raise RuntimeError(
+                  "Yellow fire icon was not found in the generated SVG."
+              )
+
+          # Apply the animated glow
+          for fire_path in fire_paths:
+              fire_path.set("filter", "url(#fireGlow)")
+
+          # Save updated SVG
+          tree.write(
+              svg_path,
+              encoding="utf-8",
+              xml_declaration=True
+          )
+
+          print("Animated fire glow successfully applied.")
+          print(f"Updated {len(fire_paths)} fire icon path(s).")
+          PY
+
+      # 5. Validate generated SVG
+      - name: Validate streak SVG
+        run: |
+          python3 - <<'PY'
+          import xml.etree.ElementTree as ET
+          import os
+
+          path = "profile/streak.svg"
+
+          if not os.path.isfile(path) or os.path.getsize(path) == 0:
+              raise SystemExit("ERROR: Streak SVG is missing or empty.")
+
+          ET.parse(path)
+
+          with open(path, "r", encoding="utf-8") as file:
+              content = file.read()
+
+          if 'id="fireGlow"' not in content:
+              raise SystemExit("ERROR: Fire glow filter is missing.")
+
+          if 'url(#fireGlow)' not in content:
+              raise SystemExit("ERROR: Fire glow was not applied.")
+
+          if 'repeatCount="indefinite"' not in content:
+              raise SystemExit("ERROR: Infinite glow animation is missing.")
+
+          print("SVG validation successful.")
+          print(f"File size: {os.path.getsize(path)} bytes")
+          PY
+
+      # 6. Commit and push updated SVG
+      - name: Commit and push streak SVG
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
+          git add profile/streak.svg
+
+          if git diff --cached --quiet; then
+            echo "No changes to the streak SVG."
+            exit 0
+          fi
+
+          git commit -m "Update GitHub streak stats"
+          git push
