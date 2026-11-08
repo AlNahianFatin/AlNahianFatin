@@ -38,7 +38,7 @@ query($login: String!, $from: DateTime!, $to: DateTime!, $cursor: String) {
         isPrivate
         stargazerCount
         forkCount
-        languages(first: 20, orderBy: SIZE) {
+        languages(first: 20, orderBy: {field: SIZE, direction: DESC}) {
           edges { size node { name } }
         }
       }
