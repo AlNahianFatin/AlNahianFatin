@@ -1,4 +1,4 @@
-# 👋 Hello, I'm Al Nahian Fatin!
+<!-- # 👋 Hello, I'm Al Nahian Fatin!
 
 <div align="center">
 
@@ -277,5 +277,206 @@ A full-stack gaming community platform.
 ### 🚀 "Code is poetry, and every commit tells a story"
 
 <sub>⭐ Feel free to star any repositories you find interesting!</sub>
+
+</div> -->
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- ═══════════════ HEADER BANNER ═══════════════ -->
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:1a1033,50:8957E5,100:C084FC&text=Al%20Nahian%20Fatin&fontColor=ffffff&fontSize=52&fontAlignY=36&desc=Aspiring%20Software%20Engineer%20%E2%80%A2%20Dhaka%2C%20Bangladesh&descSize=18&descAlignY=58&animation=fadeIn" alt="Al Nahian Fatin banner" width="100%"/>
+
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=C084FC&center=true&vCenter=true&width=650&lines=Full-Stack+Developer;Exploring+Modern+Technologies;Building+Scalable+Software+Solutions;Turning+coffee+into+commits" alt="Typing SVG" />
+</a>
+
+<br/>
+
+<a href="https://al-nahian-fatin-portfolio.vercel.app"><img src="https://img.shields.io/badge/Portfolio-8957E5?style=flat-square&logo=vercel&logoColor=white" alt="Portfolio"/></a>
+<a href="https://www.linkedin.com/in/al-nahian-fatin/"><img src="https://img.shields.io/badge/LinkedIn-1877F2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="mailto:fatinnahian@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email"/></a>
+<img src="https://komarev.com/ghpvc/?username=AlNahianFatin&color=8957E5&style=flat-square&label=Profile+Views" alt="Profile Views"/>
+
+<br/><br/>
+
+<a href="#-about"><b>About</b></a> &nbsp;•&nbsp;
+<a href="#-tech-stack"><b>Stack</b></a> &nbsp;•&nbsp;
+<a href="#-stats"><b>Stats</b></a> &nbsp;•&nbsp;
+<a href="#-projects"><b>Projects</b></a> &nbsp;•&nbsp;
+<a href="#-connect"><b>Connect</b></a>
+
+</div>
+
+<br/>
+
+<!-- ═══════════════ ABOUT ═══════════════ -->
+## 👨‍💻 About
+
+<table>
+<tr>
+<td width="55%" valign="top">
+
+```ts
+const fatin = {
+  role: "Aspiring Software Engineer",
+  based: "Dhaka, Bangladesh 🇧🇩",
+  focus: ["C#", "TypeScript", "Web Dev"],
+  learning: "Advanced TypeScript frameworks",
+  lookingFor: "Open-source collaborations",
+  funFact: "I love problem-solving",
+  motto: "Ship it, then make it better",
+};
+```
+
+</td>
+<td width="45%" align="center" valign="middle">
+
+<img src="assets/Software-Engineer.svg" alt="Animated software engineer at work" width="100%"/>
+
+</td>
+</tr>
+</table>
+
+> 💬 **Ask me about:** C# · Software Development · HTML/CSS · JavaScript · TypeScript · Web Development · Project Ideas
+
+<br/>
+
+<!-- ═══════════════ TECH STACK ═══════════════ -->
+## 🛠️ Tech Stack
+
+<div align="center">
+
+| | |
+|:--|:--|
+| **Languages** | <img src="https://skillicons.dev/icons?i=c,cpp,java,py,html,css,js,ts,php,cs&theme=dark" alt="Languages"/> |
+| **Frontend** | <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,bootstrap,redux&theme=dark" alt="Frontend"/> |
+| **Backend** | <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,dotnet,prisma&theme=dark" alt="Backend"/> |
+| **Databases** | <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,redis,sqlite&theme=dark" alt="Databases"/> |
+| **Tools** | <img src="https://skillicons.dev/icons?i=git,github,docker,vscode,visualstudio,postman,vercel&theme=dark" alt="Tools"/> |
+
+<sub><b>Also working with:</b></sub><br/>
+<img src="https://img.shields.io/badge/Oracle-E60023?style=flat-square&logo=oracle&logoColor=white" alt="Oracle"/>
+<img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white" alt="SQL Server"/>
+<img src="https://img.shields.io/badge/SSMS-0078D4?style=flat-square&logo=microsoftsqlserver&logoColor=white" alt="SSMS"/>
+<img src="https://img.shields.io/badge/Socket.IO-010101?style=flat-square&logo=socket.io&logoColor=white" alt="Socket.IO"/>
+<img src="https://img.shields.io/badge/TypeORM-FE0803?style=flat-square&logo=typeorm&logoColor=white" alt="TypeORM"/>
+<img src="https://img.shields.io/badge/shadcn%2Fui-000000?style=flat-square&logo=shadcnui&logoColor=white" alt="shadcn/ui"/>
+<img src="https://img.shields.io/badge/DaisyUI-5A0EF8?style=flat-square&logo=daisyui&logoColor=white" alt="DaisyUI"/>
+<img src="https://img.shields.io/badge/Cloudinary-3448C5?style=flat-square&logo=cloudinary&logoColor=white" alt="Cloudinary"/>
+<img src="https://img.shields.io/badge/Stripe-635BFF?style=flat-square&logo=stripe&logoColor=white" alt="Stripe"/>
+<img src="https://img.shields.io/badge/bKash-E2136E?style=flat-square&logoColor=white" alt="bKash"/>
+
+</div>
+
+<br/>
+
+<!-- ═══════════════ STATS ═══════════════ -->
+## 📊 Stats
+
+<div align="center">
+
+<table>
+<tr>
+<td align="center"><img src="./profile/stats.svg" alt="GitHub Statistics"/></td>
+<td align="center"><img src="./profile/top-langs.svg" alt="Most Used Languages"/></td>
+</tr>
+</table>
+
+<img src="https://raw.githubusercontent.com/AlNahianFatin/AlNahianFatin/main/profile/streak.svg" alt="GitHub Streak Stats"/>
+
+<br/><br/>
+
+<img src="./profile/activity.svg" alt="GitHub Contribution Activity" width="100%"/>
+
+</div>
+
+<details>
+<summary><b>🏆 Milestones</b> &nbsp;<sub>(click to expand)</sub></summary>
+<br/>
+<div align="center">
+  <img src="./profile/milestones.svg" alt="GitHub Milestones"/>
+</div>
+</details>
+
+<details>
+<summary><b>🐍 Contribution snake</b> &nbsp;<sub>(click to expand)</sub></summary>
+<br/>
+<div align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AlNahianFatin/AlNahianFatin/output/github-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AlNahianFatin/AlNahianFatin/output/github-snake.svg">
+  <img alt="Contribution graph being eaten by a snake" src="https://raw.githubusercontent.com/AlNahianFatin/AlNahianFatin/output/github-snake.svg">
+</picture>
+</div>
+</details>
+
+<br/>
+
+<!-- ═══════════════ PROJECTS ═══════════════ -->
+## 🏗️ Projects
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🎮 [Gamers United](https://github.com/AlNahianFatin/Gamers_United)
+A full-stack gaming community platform.
+
+<img src="https://img.shields.io/badge/Full--Stack-8957E5?style=flat-square" alt="Full-Stack"/>
+<!-- Add 2-3 tags for the real stack, e.g.: -->
+<!-- <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white"/> -->
+
+[**View on GitHub →**](https://github.com/AlNahianFatin/Gamers_United)
+
+</td>
+<td width="50%" valign="top">
+
+### ✨ Next project
+Currently planning something new. Have an idea or want to build together?
+
+<img src="https://img.shields.io/badge/Open%20to%20collab-22C55E?style=flat-square" alt="Open to collab"/>
+
+[**Say hi →**](mailto:fatinnahian@gmail.com)
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+<!-- ═══════════════ CONNECT ═══════════════ -->
+## 🌐 Connect
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/al-nahian-fatin/"><img src="https://img.shields.io/badge/LinkedIn-Let's%20connect-1877F2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="https://al-nahian-fatin-portfolio.vercel.app"><img src="https://img.shields.io/badge/Portfolio-See%20my%20work-8957E5?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>
+<a href="https://www.facebook.com/AlNahianFatin"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/></a>
+
+<br/><br/>
+
+<i>"Code is poetry, and every commit tells a story."</i>
+
+<sub>⭐ Star any repo you find interesting!</sub>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:C084FC,50:8957E5,100:1a1033&section=footer" alt="footer" width="100%"/>
 
 </div>
