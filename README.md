@@ -1,9 +1,9 @@
-<!-- # 👋 Hello, I'm Al Nahian Fatin!
+# 👋 Hello, I'm Al Nahian Fatin!
 
 <div align="center">
 
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=8957E5&center=true&vCenter=true&width=650&lines=Aspiring+Software+Engineer;Full-Stack+Developer;Exploring+Modern+Technologies;Building+Scalable+Software+Solutions" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=8957E5&center=true&vCenter=true&width=650&lines=Aspiring+Software+Engineer;Full-Stack+Developer;Exploring+Modern+Technologies;Building+Scalable+Software+Solutions;Turning+coffee+into+commits" alt="Typing SVG" />
   </a>
 
 </div>
@@ -12,52 +12,77 @@
 
 <div align="center">
   <img src="assets/Software-Engineer.svg" alt="Animated software engineer at work" width="100%"/>
+
+  <br/>
+
+  [![GitHub Followers](https://img.shields.io/github/followers/AlNahianFatin?style=for-the-badge&logo=github&label=GitHub%20Followers&color=8957E5)](https://github.com/AlNahianFatin)
+  ![Profile Views](https://komarev.com/ghpvc/?username=AlNahianFatin&color=8957E5&style=for-the-badge&label=Profile+Views)
+
+  <a href="#about"><b>About</b></a> &nbsp;•&nbsp;
+  <a href="#tech-stack"><b>Stacks</b></a> &nbsp;•&nbsp;
+  <a href="#github-statistics"><b>Stats</b></a> &nbsp;•&nbsp;
+  <a href="#github-achievements"><b>Achievements</b></a> &nbsp;•&nbsp;
+  <a href="#contribution-snake"><b>Snake</b></a> &nbsp;•&nbsp;
+  <a href="#featured-projects"><b>Projects</b></a> &nbsp;•&nbsp;
+  <a href="#connect"><b>Connect</b></a>
 </div>
 
-## 🎯 Current Focus
+<a id="about"></a>
+## 👨‍💻 About Me
 
-- 🔭 Working on: **Currently exploring new project ideas**
-- 🌱 Learning: **Advanced Typescript frameworks**
-- 👯 Looking to collaborate on: **Open Source Projects involving software and web development**
-- 💬 Ask me about: **C#, Software Development, HTML, CSS, JavaScript, Typescript, Web Development, and Project Ideas**
-- ⚡ Fun fact: **I enjoy exploring new technologies and love problem-solving**
+```ts
+const fatin = {
+  role: "Aspiring Software Engineer",
+  based: "Dhaka, Bangladesh",
+  focus: ["C#", "TypeScript", "Web Dev"],
+  learning: "Advanced TypeScript frameworks",
+  lookingFor: "Open-source collaborations",
+  funFact: "I love problem-solving",
+  motto: "Make it better & ship it"
+};
+```
+
+> 💬 **Ask me about:** C# · Software Development · HTML/CSS · JavaScript · TypeScript · Web Development · Project Ideas
+
+<br/>
 
 ---
 
-## 🛠️ Technology Arsenal
+<a id="tech-stack"></a>
+## 🛠️ Tech Stacks
 
 ### 💻 Programming Languages
 
 <div>
 
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2b%2b&logoColor=white)
-<img
-  src="assets/Java-Logo.svg"
-  alt="Java"
-  height="28"
-  style="background-color: #FF6C37;"
-/>
-![Java](https://img.shields.io/badge/Java-FF6C37?style=for-the-badge&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-<img
-  src="assets/CSS3-Logo.svg"
-  alt="CSS3"
-  height="28"
-  style="background-color: #007FFF;"
-/>
-![CSS3](https://img.shields.io/badge/CSS3-007FFF?style=for-the-badge&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-<img
-  src="assets/CSharp-Logo.svg"
-  alt="C#"
-  height="28"
-  style="background-color: #762CA7;"
-/>
-![C#](https://img.shields.io/badge/C%23-762CA7?style=for-the-badge&logo=csharp&logoColor=white)
+  ![C](`https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+  ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2b%2b&logoColor=white)
+  <img
+    src="assets/Java-Logo.svg"
+    alt="Java"
+    height="28"
+    style="background-color: #FF6C37;"
+  />
+  ![Java](https://img.shields.io/badge/Java-FF6C37?style=for-the-badge&logoColor=white)
+  ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+  ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+  <img
+    src="assets/CSS3-Logo.svg"
+    alt="CSS3"
+    height="28"
+    style="background-color: #007FFF;"
+  />
+  ![CSS3](https://img.shields.io/badge/CSS3-007FFF?style=for-the-badge&logoColor=white)
+  ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+  ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+  ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+  <img
+    src="assets/CSharp-Logo.svg"
+    alt="C#"
+    height="28"
+    style="background-color: #762CA7;"
+  />
+  ![C#](https://img.shields.io/badge/C%23-762CA7?style=for-the-badge&logo=csharp&logoCol`or=white)
 
 </div>
 
@@ -65,17 +90,17 @@
 
 <div>
 
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![ASP.NET Core](https://img.shields.io/badge/ASP.NET%20Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![Socket.IO](https://img.shields.io/badge/Socket.IO-010101?style=for-the-badge&logo=socket.io&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![DaisyUI](https://img.shields.io/badge/DaisyUI-FFFFFF?style=for-the-badge&logo=daisyui&logoColor=FFB86C)
-![shadcn/ui](https://img.shields.io/badge/shadcn%2Fui-000000?style=for-the-badge&logo=shadcnui&logoColor=white)
+  ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+  ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+  ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
+  ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+  ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+  ![ASP.NET Core](https://img.shields.io/badge/ASP.NET%20Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+  ![Socket.IO](https://img.shields.io/badge/Socket.IO-010101?style=for-the-badge&logo=socket.io&logoColor=white)
+  ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+  ![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+  ![DaisyUI](https://img.shields.io/badge/DaisyUI-FFFFFF?style=for-the-badge&logo=daisyui&logoColor=FFB86C)
+  ![shadcn/ui](https://img.shields.io/badge/shadcn%2Fui-000000?style=for-the-badge&logo=shadcnui&logoColor=white)
 
 </div>
 
@@ -83,37 +108,37 @@
 
 <div>
 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-<img
-  src="assets/Visual-Studio-Code-Logo.svg"
-  alt="Visual Studio Code"
-  height="28"
-  style="background-color: #1F9CF0;"
-/>
-![VS Code](https://img.shields.io/badge/VS%20Code-1F9CF0?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-<img
-  src="assets/Visual-Studio-Logo.svg"
-  alt="Visual Studio"
-  height="28"
-  style="background-color: #A855F7;"
-/>
-![Visual Studio](https://img.shields.io/badge/Visual%20Studio-A855F7?style=for-the-badge&logo=visualstudio&logoColor=white)
-![TypeORM](https://img.shields.io/badge/TypeORM-FE0803?style=for-the-badge&logo=typeorm&logoColor=white)
-![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
-![Cloudinary](https://img.shields.io/badge/Cloudinary-3448C5?style=for-the-badge&logo=cloudinary&logoColor=white)
-![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-<img
-  src="assets/BKash-Logo.svg"
-  alt="bKash"
-  height="28"
-  style="background-color: transparent;"
-/>
-![bKash](https://img.shields.io/badge/bKash-E2136E?style=for-the-badge&logo=bkash&logoColor=white)
-![Stripe](https://img.shields.io/badge/Stripe-635BFF?style=for-the-badge&logo=stripe&logoColor=white)
+  ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+  ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+  ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+  ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+  <img
+    src="assets/Visual-Studio-Code-Logo.svg"
+    alt="Visual Studio Code"
+    height="28"
+    style="background-color: #1F9CF0;"
+  />
+  ![VS Code](https://img.shields.io/badge/VS%20Code-1F9CF0?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+  <img
+    src="assets/Visual-Studio-Logo.svg"
+    alt="Visual Studio"
+    height="28"
+    style="background-color: #A855F7;"
+  />
+  ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-A855F7?style=for-the-badge&logo=visualstudio&logoColor=white)
+  ![TypeORM](https://img.shields.io/badge/TypeORM-FE0803?style=for-the-badge&logo=typeorm&logoColor=white)
+  ![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
+  ![Cloudinary](https://img.shields.io/badge/Cloudinary-3448C5?style=for-the-badge&logo=cloudinary&logoColor=white)
+  ![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
+  ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+  <img
+    src="assets/BKash-Logo.svg"
+    alt="bKash"
+    height="28"
+    style="background-color: transparent;"
+  />
+  ![bKash](https://img.shields.io/badge/bKash-E2136E?style=for-the-badge&logo=bkash&logoColor=white)
+  ![Stripe](https://img.shields.io/badge/Stripe-635BFF?style=for-the-badge&logo=stripe&logoColor=white)
 
 </div>
 
@@ -121,116 +146,116 @@
 
 <div>
 
-<img
-  src="assets/Oracle-Logo.svg"
-  alt="Oracle"
-  height="28"
-  style="background-color: transparent;"
-/>
-![Oracle](https://img.shields.io/badge/Oracle-E60023?style=for-the-badge&logo=oracle&logoColor=white)
-<img
-  src="assets/Microsoft-SQL-Server-Logo.svg"
-  alt="Microsoft SQL Server"
-  height="28"
-  style="background-color: #CC2927;"
-/>
-![Microsoft SQL Server](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
-<img
-  src="assets/SSMS-Logo.svg"
-  alt="SSMS"
-  height="28"
-  style="background-color: #0078D4;"
-/>
-![SSMS](https://img.shields.io/badge/SSMS-0078D4?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+  <img
+    src="assets/Oracle-Logo.svg"
+    alt="Oracle"
+    height="28"
+    style="background-color: transparent;"
+  />
+  ![Oracle](https://img.shields.io/badge/Oracle-E60023?style=for-the-badge&logo=oracle&logoColor=white)
+  <img
+    src="assets/Microsoft-SQL-Server-Logo.svg"
+    alt="Microsoft SQL Server"
+    height="28"
+    style="background-color: #CC2927;"
+  />
+  ![Microsoft SQL Server](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+  <img
+    src="assets/SSMS-Logo.svg"
+    alt="SSMS"
+    height="28"
+    style="background-color: #0078D4;"
+  />
+  ![SSMS](https://img.shields.io/badge/SSMS-0078D4?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+  ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+  ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+  ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+  ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+  ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 
 </div>
 
 ---
 
+<a id="github-statistics"></a>
 ## 📊 GitHub Statistics
 
 <div align="center">
 
-  <img src="./profile/stats.svg" alt="GitHub Statistics"/>
+  <table>
+    <tr>
+      <td align="center"><img src="./profile/stats.svg" alt="GitHub Statistics"/></td>
+      <td align="center"><img src="./profile/top-langs.svg" alt="Most Used Languages"/></td>
+    </tr>
+  </table>
 
-  <img src="./profile/top-langs.svg" alt="Most Used Languages"/>
+  <img src="./profile/streak.svg" alt="GitHub Streak Stats"/>
+
+  <br/><br/>
+
+  <img src="./profile/activity.svg" alt="GitHub Contribution Activity" width="100%"/>
 
 </div>
 
 ---
 
+<a id="github-achievements"></a>
 ## 🏆 GitHub Achievements
 
 <div align="center">
 
-<img src="./profile/milestones.svg" alt="GitHub Milestones"/>
+  <img src="./profile/milestones.svg" alt="GitHub Milestones"/>
 
 </div>
 
 ---
 
-## 📈 Contribution Activity
-
-<div align="center">
-
- <img
-    src="./profile/activity.svg"
-    alt="GitHub Contribution Activity"
-    width="100%"
-  />
-
-</div>
-
----
-
-## 🔥 Contribution Streak
-
-<div align="center">
-
-  <img
-    src="https://raw.githubusercontent.com/AlNahianFatin/AlNahianFatin/main/profile/streak.svg"
-    alt="GitHub Streak Stats"
-  />
-
-</div>
-
----
-
+<a id="contribution-snake"></a>
 ## 🐍 Contribution Snake
 
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AlNahianFatin/AlNahianFatin/output/github-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AlNahianFatin/AlNahianFatin/output/github-snake.svg">
-  <img alt="Contribution graph being eaten by a snake" src="https://raw.githubusercontent.com/AlNahianFatin/AlNahianFatin/output/github-snake.svg">
-</picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AlNahianFatin/AlNahianFatin/output/github-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AlNahianFatin/AlNahianFatin/output/github-snake.svg">
+    <img alt="Contribution graph being eaten by a snake" src="https://raw.githubusercontent.com/AlNahianFatin/AlNahianFatin/output/github-snake.svg">
+  </picture>
 
 </div>
 
 ---
 
+<a id="featured-projects"></a>
 ## 🏗️ Featured Projects
 
 <div align="center">
 
-### 🚀 Gamers United
+  ### 🚀 Gamers United
 
-A full-stack gaming community platform.
+  A full-stack gaming community platform.
 
-<a href="https://github.com/AlNahianFatin/Gamers_United" target="_blank" rel="noopener noreferrer">
-  <img src="https://img.shields.io/badge/View%20Project-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="View Gamers United on GitHub"/>
-</a>
+  <a href="https://github.com/AlNahianFatin/Gamers_United" target="_blank" rel="noopener noreferrer">
+    <img
+      src="./assets/Gamers-United.svg"
+      alt="Gamers United Project Preview"
+      width="100%"
+    />
+  </a>
+
+  <br/>
+
+  <a href="https://github.com/AlNahianFatin/Gamers_United" target="_blank" rel="noopener noreferrer">
+    <img
+      src="https://img.shields.io/badge/View%20Project-GitHub-8957E5?style=for-the-badge&logo=github&logoColor=white"
+      alt="View Gamers United on GitHub"
+    />
+  </a>
 
 </div>
 
 ---
 
+<a id="connect"></a>
 ## 🌐 Let's Connect & Collaborate
 
 <div align="center">
@@ -253,230 +278,18 @@ A full-stack gaming community platform.
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
   </a>
 
-</div>
-
----
-
-## 📱 Social Presence
-
-<div align="center">
-
-[![GitHub Followers](https://img.shields.io/github/followers/AlNahianFatin?style=for-the-badge&logo=github&label=GitHub%20Followers)](https://github.com/AlNahianFatin)
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/AlNahianFatin)
+  [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/AlNahianFatin)
 
 </div>
 
 ---
 
-<div align="center">
-
-<img src="https://komarev.com/ghpvc/?username=AlNahianFatin&color=blueviolet&style=for-the-badge&label=Profile+Views" alt="Profile Views"/>
-
-<br/><br/>
-
-### 🚀 "Code is poetry, and every commit tells a story"
-
-<sub>⭐ Feel free to star any repositories you find interesting!</sub>
-
-</div> -->
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-<!-- ═══════════════ HEADER BANNER ═══════════════ -->
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:1a1033,50:8957E5,100:C084FC&text=Al%20Nahian%20Fatin&fontColor=ffffff&fontSize=52&fontAlignY=36&desc=Aspiring%20Software%20Engineer%20%E2%80%A2%20Dhaka%2C%20Bangladesh&descSize=18&descAlignY=58&animation=fadeIn" alt="Al Nahian Fatin banner" width="100%"/>
-
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=C084FC&center=true&vCenter=true&width=650&lines=Full-Stack+Developer;Exploring+Modern+Technologies;Building+Scalable+Software+Solutions;Turning+coffee+into+commits" alt="Typing SVG" />
-</a>
-
 <br/>
-
-<a href="https://al-nahian-fatin-portfolio.vercel.app"><img src="https://img.shields.io/badge/Portfolio-8957E5?style=flat-square&logo=vercel&logoColor=white" alt="Portfolio"/></a>
-<a href="https://www.linkedin.com/in/al-nahian-fatin/"><img src="https://img.shields.io/badge/LinkedIn-1877F2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-<a href="mailto:fatinnahian@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email"/></a>
-<img src="https://komarev.com/ghpvc/?username=AlNahianFatin&color=8957E5&style=flat-square&label=Profile+Views" alt="Profile Views"/>
-
-<br/><br/>
-
-<a href="#-about"><b>About</b></a> &nbsp;•&nbsp;
-<a href="#-tech-stack"><b>Stack</b></a> &nbsp;•&nbsp;
-<a href="#-stats"><b>Stats</b></a> &nbsp;•&nbsp;
-<a href="#-projects"><b>Projects</b></a> &nbsp;•&nbsp;
-<a href="#-connect"><b>Connect</b></a>
-
-</div>
-
-<br/>
-
-<!-- ═══════════════ ABOUT ═══════════════ -->
-## 👨‍💻 About
-
-<table>
-<tr>
-<td width="55%" valign="top">
-
-```ts
-const fatin = {
-  role: "Aspiring Software Engineer",
-  based: "Dhaka, Bangladesh 🇧🇩",
-  focus: ["C#", "TypeScript", "Web Dev"],
-  learning: "Advanced TypeScript frameworks",
-  lookingFor: "Open-source collaborations",
-  funFact: "I love problem-solving",
-  motto: "Ship it, then make it better",
-};
-```
-
-</td>
-<td width="45%" align="center" valign="middle">
-
-<img src="assets/Software-Engineer.svg" alt="Animated software engineer at work" width="100%"/>
-
-</td>
-</tr>
-</table>
-
-> 💬 **Ask me about:** C# · Software Development · HTML/CSS · JavaScript · TypeScript · Web Development · Project Ideas
-
-<br/>
-
-<!-- ═══════════════ TECH STACK ═══════════════ -->
-## 🛠️ Tech Stack
 
 <div align="center">
 
-| | |
-|:--|:--|
-| **Languages** | <img src="https://skillicons.dev/icons?i=c,cpp,java,py,html,css,js,ts,php,cs&theme=dark" alt="Languages"/> |
-| **Frontend** | <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,bootstrap,redux&theme=dark" alt="Frontend"/> |
-| **Backend** | <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,dotnet,prisma&theme=dark" alt="Backend"/> |
-| **Databases** | <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,redis,sqlite&theme=dark" alt="Databases"/> |
-| **Tools** | <img src="https://skillicons.dev/icons?i=git,github,docker,vscode,visualstudio,postman,vercel&theme=dark" alt="Tools"/> |
+  <i>"Code is poetry, and every commit tells a story."</i>
 
-<sub><b>Also working with:</b></sub><br/>
-<img src="https://img.shields.io/badge/Oracle-E60023?style=flat-square&logo=oracle&logoColor=white" alt="Oracle"/>
-<img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white" alt="SQL Server"/>
-<img src="https://img.shields.io/badge/SSMS-0078D4?style=flat-square&logo=microsoftsqlserver&logoColor=white" alt="SSMS"/>
-<img src="https://img.shields.io/badge/Socket.IO-010101?style=flat-square&logo=socket.io&logoColor=white" alt="Socket.IO"/>
-<img src="https://img.shields.io/badge/TypeORM-FE0803?style=flat-square&logo=typeorm&logoColor=white" alt="TypeORM"/>
-<img src="https://img.shields.io/badge/shadcn%2Fui-000000?style=flat-square&logo=shadcnui&logoColor=white" alt="shadcn/ui"/>
-<img src="https://img.shields.io/badge/DaisyUI-5A0EF8?style=flat-square&logo=daisyui&logoColor=white" alt="DaisyUI"/>
-<img src="https://img.shields.io/badge/Cloudinary-3448C5?style=flat-square&logo=cloudinary&logoColor=white" alt="Cloudinary"/>
-<img src="https://img.shields.io/badge/Stripe-635BFF?style=flat-square&logo=stripe&logoColor=white" alt="Stripe"/>
-<img src="https://img.shields.io/badge/bKash-E2136E?style=flat-square&logoColor=white" alt="bKash"/>
-
-</div>
-
-<br/>
-
-<!-- ═══════════════ STATS ═══════════════ -->
-## 📊 Stats
-
-<div align="center">
-
-<table>
-<tr>
-<td align="center"><img src="./profile/stats.svg" alt="GitHub Statistics"/></td>
-<td align="center"><img src="./profile/top-langs.svg" alt="Most Used Languages"/></td>
-</tr>
-</table>
-
-<img src="https://raw.githubusercontent.com/AlNahianFatin/AlNahianFatin/main/profile/streak.svg" alt="GitHub Streak Stats"/>
-
-<br/><br/>
-
-<img src="./profile/activity.svg" alt="GitHub Contribution Activity" width="100%"/>
-
-</div>
-
-<details>
-<summary><b>🏆 Milestones</b> &nbsp;<sub>(click to expand)</sub></summary>
-<br/>
-<div align="center">
-  <img src="./profile/milestones.svg" alt="GitHub Milestones"/>
-</div>
-</details>
-
-<details>
-<summary><b>🐍 Contribution snake</b> &nbsp;<sub>(click to expand)</sub></summary>
-<br/>
-<div align="center">
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AlNahianFatin/AlNahianFatin/output/github-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AlNahianFatin/AlNahianFatin/output/github-snake.svg">
-  <img alt="Contribution graph being eaten by a snake" src="https://raw.githubusercontent.com/AlNahianFatin/AlNahianFatin/output/github-snake.svg">
-</picture>
-</div>
-</details>
-
-<br/>
-
-<!-- ═══════════════ PROJECTS ═══════════════ -->
-## 🏗️ Projects
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### 🎮 [Gamers United](https://github.com/AlNahianFatin/Gamers_United)
-A full-stack gaming community platform.
-
-<img src="https://img.shields.io/badge/Full--Stack-8957E5?style=flat-square" alt="Full-Stack"/>
-<!-- Add 2-3 tags for the real stack, e.g.: -->
-<!-- <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white"/> -->
-
-[**View on GitHub →**](https://github.com/AlNahianFatin/Gamers_United)
-
-</td>
-<td width="50%" valign="top">
-
-### ✨ Next project
-Currently planning something new. Have an idea or want to build together?
-
-<img src="https://img.shields.io/badge/Open%20to%20collab-22C55E?style=flat-square" alt="Open to collab"/>
-
-[**Say hi →**](mailto:fatinnahian@gmail.com)
-
-</td>
-</tr>
-</table>
-
-<br/>
-
-<!-- ═══════════════ CONNECT ═══════════════ -->
-## 🌐 Connect
-
-<div align="center">
-
-<a href="https://www.linkedin.com/in/al-nahian-fatin/"><img src="https://img.shields.io/badge/LinkedIn-Let's%20connect-1877F2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-<a href="https://al-nahian-fatin-portfolio.vercel.app"><img src="https://img.shields.io/badge/Portfolio-See%20my%20work-8957E5?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>
-<a href="https://www.facebook.com/AlNahianFatin"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/></a>
-
-<br/><br/>
-
-<i>"Code is poetry, and every commit tells a story."</i>
-
-<sub>⭐ Star any repo you find interesting!</sub>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:C084FC,50:8957E5,100:1a1033&section=footer" alt="footer" width="100%"/>
+  <sub>⭐ Star any repo you find interesting!</sub>
 
 </div>
