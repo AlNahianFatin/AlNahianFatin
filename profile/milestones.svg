@@ -12,9 +12,9 @@
 <text x="227" y="132" fill="#FACC15" font-family="Segoe UI, Ubuntu, sans-serif" font-size="9px" font-weight="600" text-anchor="end">Next: 500</text>
 <rect x="253" y="47" width="220" height="100" rx="9" fill="none" stroke="#8957E5" stroke-opacity="0.30"/>
 <text x="266" y="70" fill="#A78BFA" font-family="Segoe UI, Ubuntu, sans-serif" font-size="11px" font-weight="600" text-anchor="start">Contributions (last year)</text>
-<text x="460" y="71" fill="#8957E5" font-family="Segoe UI, Ubuntu, sans-serif" font-size="19px" font-weight="700" text-anchor="end">620</text>
+<text x="460" y="71" fill="#8957E5" font-family="Segoe UI, Ubuntu, sans-serif" font-size="19px" font-weight="700" text-anchor="end">624</text>
 <rect x="266" y="86" width="194" height="7" rx="3.5" fill="#8957E5" fill-opacity="0.12"/>
-<rect x="266" y="86" width="46.56" height="7" rx="3.5" fill="#8957E5"/>
+<rect x="266" y="86" width="48.11" height="7" rx="3.5" fill="#8957E5"/>
 <text x="266" y="112" fill="#808080" font-family="Segoe UI, Ubuntu, sans-serif" font-size="9px" font-weight="400" text-anchor="start">Reached: 100 · 250 · 500</text>
 <text x="460" y="132" fill="#8957E5" font-family="Segoe UI, Ubuntu, sans-serif" font-size="9px" font-weight="600" text-anchor="end">Next: 1,000</text>
 <rect x="486" y="47" width="220" height="100" rx="9" fill="none" stroke="#8957E5" stroke-opacity="0.30"/>
@@ -40,9 +40,9 @@
 <text x="460" y="247" fill="#FACC15" font-family="Segoe UI, Ubuntu, sans-serif" font-size="9px" font-weight="600" text-anchor="end">Next: 1</text>
 <rect x="486" y="162" width="220" height="100" rx="9" fill="none" stroke="#8957E5" stroke-opacity="0.30"/>
 <text x="499" y="185" fill="#A78BFA" font-family="Segoe UI, Ubuntu, sans-serif" font-size="11px" font-weight="600" text-anchor="start">Repositories owned</text>
-<text x="693" y="186" fill="#A78BFA" font-family="Segoe UI, Ubuntu, sans-serif" font-size="19px" font-weight="700" text-anchor="end">37</text>
+<text x="693" y="186" fill="#A78BFA" font-family="Segoe UI, Ubuntu, sans-serif" font-size="19px" font-weight="700" text-anchor="end">38</text>
 <rect x="499" y="201" width="194" height="7" rx="3.5" fill="#8957E5" fill-opacity="0.12"/>
-<rect x="499" y="201" width="93.12" height="7" rx="3.5" fill="#A78BFA"/>
+<rect x="499" y="201" width="100.88" height="7" rx="3.5" fill="#A78BFA"/>
 <text x="499" y="227" fill="#808080" font-family="Segoe UI, Ubuntu, sans-serif" font-size="9px" font-weight="400" text-anchor="start">Reached: 1 · 5 · 10 · 25</text>
 <text x="693" y="247" fill="#A78BFA" font-family="Segoe UI, Ubuntu, sans-serif" font-size="9px" font-weight="600" text-anchor="end">Next: 50</text>
 <rect x="20" y="277" width="220" height="100" rx="9" fill="none" stroke="#8957E5" stroke-opacity="0.30"/>
