@@ -2,8 +2,10 @@ name: Generate GitHub Profile Graphs
 
 on:
   schedule:
-    # Daily at 03:15 UTC (09:15 Bangladesh time)
-    - cron: "15 3 * * *"
+    # Daily at 12:15 am Bangladesh time
+    - cron: "15 0 * * *"
+      timezone: "Asia/Dhaka"
+
   workflow_dispatch:
   push:
     paths:
