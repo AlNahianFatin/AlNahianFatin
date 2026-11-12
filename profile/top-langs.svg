@@ -2,20 +2,20 @@
 <title>AlNahianFatin Most Used Languages</title>
 <rect x="0.5" y="0.5" width="494" height="309" rx="9" fill="none" stroke="#8957E5" stroke-opacity="0.28"/>
 <text x="22" y="34" fill="#8957E5" font-family="Segoe UI, Ubuntu, sans-serif" font-size="18px" font-weight="700" text-anchor="start">Most Used Languages</text>
-<rect x="22.00" y="63" width="266.88" height="10" fill="#8957E5"/>
-<rect x="288.88" y="63" width="90.99" height="10" fill="#A78BFA"/>
-<rect x="379.87" y="63" width="59.63" height="10" fill="#FACC15"/>
-<rect x="439.51" y="63" width="10.57" height="10" fill="#58A6FF"/>
-<rect x="450.08" y="63" width="10.02" height="10" fill="#3FB950"/>
-<rect x="460.10" y="63" width="6.02" height="10" fill="#F78166"/>
-<rect x="466.12" y="63" width="3.87" height="10" fill="#D2A8FF"/>
-<rect x="469.99" y="63" width="3.01" height="10" fill="#8B949E"/>
+<rect x="22.00" y="63" width="266.51" height="10" fill="#8957E5"/>
+<rect x="288.51" y="63" width="91.49" height="10" fill="#A78BFA"/>
+<rect x="380.00" y="63" width="59.55" height="10" fill="#FACC15"/>
+<rect x="439.55" y="63" width="10.56" height="10" fill="#58A6FF"/>
+<rect x="450.11" y="63" width="10.01" height="10" fill="#3FB950"/>
+<rect x="460.11" y="63" width="6.01" height="10" fill="#F78166"/>
+<rect x="466.13" y="63" width="3.87" height="10" fill="#D2A8FF"/>
+<rect x="470.00" y="63" width="3.00" height="10" fill="#8B949E"/>
 <circle cx="28" cy="99" r="4" fill="#8957E5"/>
 <text x="42" y="103" fill="#A78BFA" font-family="Segoe UI, Ubuntu, sans-serif" font-size="11px" font-weight="500" text-anchor="start">PHP</text>
-<text x="470" y="103" fill="#808080" font-family="Segoe UI, Ubuntu, sans-serif" font-size="11px" font-weight="500" text-anchor="end">59.2%</text>
+<text x="470" y="103" fill="#808080" font-family="Segoe UI, Ubuntu, sans-serif" font-size="11px" font-weight="500" text-anchor="end">59.1%</text>
 <circle cx="28" cy="123" r="4" fill="#A78BFA"/>
 <text x="42" y="127" fill="#A78BFA" font-family="Segoe UI, Ubuntu, sans-serif" font-size="11px" font-weight="500" text-anchor="start">TypeScript</text>
-<text x="470" y="127" fill="#808080" font-family="Segoe UI, Ubuntu, sans-serif" font-size="11px" font-weight="500" text-anchor="end">20.2%</text>
+<text x="470" y="127" fill="#808080" font-family="Segoe UI, Ubuntu, sans-serif" font-size="11px" font-weight="500" text-anchor="end">20.3%</text>
 <circle cx="28" cy="147" r="4" fill="#FACC15"/>
 <text x="42" y="151" fill="#A78BFA" font-family="Segoe UI, Ubuntu, sans-serif" font-size="11px" font-weight="500" text-anchor="start">Jupyter Notebook</text>
 <text x="470" y="151" fill="#808080" font-family="Segoe UI, Ubuntu, sans-serif" font-size="11px" font-weight="500" text-anchor="end">13.2%</text>
