@@ -3,8 +3,7 @@ name: Generate GitHub Streak Stats
 on:
   schedule:
     # Run daily at 12:00 AM Bangladesh time (UTC+6)
-    - cron: "0 0 * * *"
-      timezone: "Asia/Dhaka"
+    - cron: "0 18 * * *"
 
   workflow_dispatch:
 
