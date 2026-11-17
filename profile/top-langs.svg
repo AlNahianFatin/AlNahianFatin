@@ -2,12 +2,12 @@
 <title>AlNahianFatin Most Used Languages</title>
 <rect x="0.5" y="0.5" width="494" height="309" rx="9" fill="none" stroke="#8957E5" stroke-opacity="0.28"/>
 <text x="22" y="34" fill="#8957E5" font-family="Segoe UI, Ubuntu, sans-serif" font-size="18px" font-weight="700" text-anchor="start">Most Used Languages</text>
-<rect x="22.00" y="63" width="265.41" height="10" fill="#8957E5"/>
-<rect x="287.41" y="63" width="92.98" height="10" fill="#A78BFA"/>
-<rect x="380.39" y="63" width="59.30" height="10" fill="#FACC15"/>
-<rect x="439.69" y="63" width="10.51" height="10" fill="#58A6FF"/>
-<rect x="450.20" y="63" width="9.96" height="10" fill="#3FB950"/>
-<rect x="460.17" y="63" width="5.99" height="10" fill="#F78166"/>
+<rect x="22.00" y="63" width="265.09" height="10" fill="#8957E5"/>
+<rect x="287.09" y="63" width="93.41" height="10" fill="#A78BFA"/>
+<rect x="380.50" y="63" width="59.23" height="10" fill="#FACC15"/>
+<rect x="439.73" y="63" width="10.50" height="10" fill="#58A6FF"/>
+<rect x="450.23" y="63" width="9.95" height="10" fill="#3FB950"/>
+<rect x="460.18" y="63" width="5.98" height="10" fill="#F78166"/>
 <rect x="466.16" y="63" width="3.85" height="10" fill="#D2A8FF"/>
 <rect x="470.01" y="63" width="2.99" height="10" fill="#8B949E"/>
 <circle cx="28" cy="99" r="4" fill="#8957E5"/>
@@ -15,7 +15,7 @@
 <text x="470" y="103" fill="#808080" font-family="Segoe UI, Ubuntu, sans-serif" font-size="11px" font-weight="500" text-anchor="end">58.8%</text>
 <circle cx="28" cy="123" r="4" fill="#A78BFA"/>
 <text x="42" y="127" fill="#A78BFA" font-family="Segoe UI, Ubuntu, sans-serif" font-size="11px" font-weight="500" text-anchor="start">TypeScript</text>
-<text x="470" y="127" fill="#808080" font-family="Segoe UI, Ubuntu, sans-serif" font-size="11px" font-weight="500" text-anchor="end">20.6%</text>
+<text x="470" y="127" fill="#808080" font-family="Segoe UI, Ubuntu, sans-serif" font-size="11px" font-weight="500" text-anchor="end">20.7%</text>
 <circle cx="28" cy="147" r="4" fill="#FACC15"/>
 <text x="42" y="151" fill="#A78BFA" font-family="Segoe UI, Ubuntu, sans-serif" font-size="11px" font-weight="500" text-anchor="start">Jupyter Notebook</text>
 <text x="470" y="151" fill="#808080" font-family="Segoe UI, Ubuntu, sans-serif" font-size="11px" font-weight="500" text-anchor="end">13.1%</text>
